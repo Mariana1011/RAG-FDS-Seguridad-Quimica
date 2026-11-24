@@ -1,0 +1,326 @@
+[
+  {
+    "id_pregunta": "P01",
+    "k": 3,
+    "user_input": "Según la FDS 31, ¿qué empresa figura como proveedor del Recubrimiento Antigraffiti 407141521?",
+    "response": "Lo siento, pero no tengo información suficiente en las FDS recuperadas para determinar el proveedor del Recubrimiento Antigraffiti 407141521.",
+    "retrieved_contexts": [
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI"
+    ],
+    "reference": "El proveedor indicado es CORLANC S.A.S."
+  },
+  {
+    "id_pregunta": "P02",
+    "k": 3,
+    "user_input": "En la FDS 33, ¿cuál es el CAS y el intervalo de concentración de los destilados de petróleo de fracción ligera tratados con hidrógeno?",
+    "response": "Según la sección registrada 3 de la FDS 33, el CAS de los destilados de petróleo de fracción ligera tratados con hidrógeno es 64742-47-8 y su concentración es de 50 - <75 % [FUENTE 1].",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Mezcla a base de productos químicos\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\n| Identificación | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| CAS: 64742-47-8 | Destilados (petróleo), fracción ligera tratada con hidrógeno | 50 - <75 % |\n| CAS: 136-52-7 | Bis(2-etilhexanoato) de cobalto | <1 % |\n\nPara ampliar informaci",
+      "a vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciones 2, 3 y 15.\n-   Cutánea: El contacto prolongado con la piel puede derivar en episodios de dermatitis alérgicas de contacto.\nF- Toxicidad específica en determinados órganos (STOT)-exposición única:\nUna exposición a altas concentraciones pueden motivar depresión del sistema nervioso central oc",
+      "### SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\nTemperatura de descomposición:\nNo relevante *\nPunto de fusión/punto de congelación:\nNo relevante *\nPropiedades explosivas:\nNo relevante *\nPropiedades comburentes:\nNo relevante *\nInflamabilidad:\nPunto de inflamación:\n55 ºC\nInflamabilidad (sólido, gas):\nNo relevante *\nTemperatura de auto-inflamación:\n200 ºC\nLímite de inflamabilidad inferior:\nNo determinado\nLímite de inflamabilidad superior:\nNo determ"
+    ],
+    "reference": "CAS 64742-47-8, concentración entre 50 % y menos de 75 %."
+  },
+  {
+    "id_pregunta": "P03",
+    "k": 3,
+    "user_input": "En la FDS 51, ¿qué concentración y clasificación de inflamabilidad se indican para el xileno?",
+    "response": "Según la FDS 51, página 2, sección registrada sin verificar, el xileno se clasifica como Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332; Tox. Agud. 5: H303 - Atención, con una concentración de 25 - <50 %.\n\n[FUENTE 1]",
+    "retrieved_contexts": [
+      "### Tabla reconstruida desde el PDF original (página 2)\n\n> Evidencia de disposición de columnas obtenida del PDF. Estado: **RECONSTRUCCION_AUTOMATICA_ALTA**. No indexar simultáneamente esta tabla y su transcripción lineal para evitar duplicados.\n\n| Identificación | Nombre químico/clasificación | Concentración |\n| --- | --- | --- |\n| CAS: 1330-20-7 | Xileno Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332; Tox. Agud. 5: H303 - Atención | 25 - <50 % |\n| CAS: No aplicable",
+      "-   Contacto con la piel: Produce inflamación cutánea.\n-   Contacto con los ojos: Produce lesiones oculares tras contacto.\nD- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):\n-   Carcinogenicidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta\nsustancias clasificadas como peligrosas con efectos cancerígenos. Para más información ver sección 3 de la FDS.\nIARC: Xileno (3); Dioxido de titanio (diámetr",
+      "cto diluido podrán variar en función de su grado de dilución, uso, método de\naplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se\ntendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más\ninformación ver epígrafes 7.1 y 7.2 de la FDS.\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de\nprevención de ries"
+    ],
+    "reference": "El xileno (CAS 1330-20-7) aparece entre 25 % y menos de 50 %, clasificado como líquido inflamable, categoría 3 (H226)."
+  },
+  {
+    "id_pregunta": "P04",
+    "k": 3,
+    "user_input": "En la FDS 97, ¿qué indica el código de peligro H335 para MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402?",
+    "response": "Según la FDS 97, página 2, sección registrada 2, el código de peligro H335 indica que el producto puede \"Provocar irritación ocular grave\".",
+    "retrieved_contexts": [
+      "MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402\nUso profesional Uso industrial\nCódigo del producto SAMPLE_N2320018 00P-402-A-4\nPeligro\nFabricante:\nAutopista Medellín Bogotá Km 37\nVía Belén Rionegro Km 1\nLíquido y vapores inflamables. Puede ser nocivo en contacto\n054040 Rionegro - Antioquia -\ncon la piel. Provoca irritación cutánea. Provoca irritación\nColombia\nocular grave. Puede irritar las vías respiratorias. Puede\n01 8000 111 247\nprovocar defectos genéticos. Puede provocar cáncer.\nM",
+      "### Sección 1. Identificación\n\n:  MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402\nNombre del producto\nUso recomendado de la sustancia química peligrosa o mezcla, y restricciones de uso\nUsos identificados\nUso profesional\nUso industrial\nUsos contraindicados\nUso por parte del consumidor\nUso del producto\n:\nRecubrimiento base disolvente para uso\ninterior y exterior.\nDatos del proveedor o\n:\nfabricante\nAutopista Medellín Bogotá Km 37\nVía Belén Rionegro Km 1\n054040 Rionegro - Antioquia - Colo",
+      "Palabra de advertencia\n:\nPeligro\n:\nH226 - Líquido y vapores inflamables.\nIndicaciones de peligro\nH313 - Puede ser nocivo en contacto con la piel.\nH315 - Provoca irritación cutánea.\nH319 - Provoca irritación ocular grave.\nH335 - Puede irritar las vías respiratorias.\nH340 - Puede provocar defectos genéticos.\nH350 - Puede provocar cáncer.\nConsejos de prudencia\nPrevención\n:\nP201 - Procurarse las instrucciones antes del uso.\nP280 - Usar guantes de protección, ropa de protección e equipo de"
+    ],
+    "reference": "H335: Puede irritar las vías respiratorias."
+  },
+  {
+    "id_pregunta": "P05",
+    "k": 3,
+    "user_input": "Según la sección 1 de la FDS 102, ¿cuál es la versión y la fecha de emisión de AMERCOAT 370 RESIN OXIDE RED?",
+    "response": "Según la FDS 102, la versión y la fecha de emisión de AMERCOAT 370 RESIN OXIDE RED son las siguientes:\n\n* Versión: 7\n* Fecha de emisión: 14 Agosto 2025\n\nAmbas informaciones se encuentran en la sección registrada sin verificar de las FDS 102, específicamente en las páginas 2, 16 y 4, con el código de producto 00280673.",
+    "retrieved_contexts": [
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "reference": "Versión 7, emitida el 14 de agosto de 2025."
+  },
+  {
+    "id_pregunta": "P06",
+    "k": 3,
+    "user_input": "En la FDS 32, ¿qué CAS y concentración corresponden al acetato de etilo?",
+    "response": "Según la sección 3.2 de la FDS 32, el acetato de etilo tiene una concentración de 10 - <25 %. Su identificación CAS es 141-78-6.",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Mezcla a base de productos químicos\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\n| Identificación (CAS) | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| 13463-67-7 | Dioxido de titanio | 10 - <25 % |\n| 141-78-6 | Acetato de etilo | 10 - <25 % |\n| 1330-20-7 | Xileno | 10 - <25 % |\n| 110-19-0 | Acetato de isobutilo | 2.5 -",
+      "acción alifática intermedia | 1 - <2.5 % |\n| 8052-41-3 | Disolvente de Stoddard, < 0.1 % EC 200-753-7 | 1 - <2.5 % |\n| 100-41-4 | Etilbenceno | <1 % |\nPara ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto\nCarcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de\nclasificación SGA, para información sobre la clasificación IARC consulte la sección 1",
+      "11.1\nInformación sobre las posibles vías de exposición:\nNo se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas\nContiene glicoles, posibilidad de efectos peligrosos para la salud, por lo que se recomienda no respirar sus vapores prolongadamente\nEfectos peligrosos para la salud:\nEn caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición\nprofesionales, pueden producirse efe"
+    ],
+    "reference": "CAS 141-78-6; concentración entre 10 % y menos de 25 %."
+  },
+  {
+    "id_pregunta": "P07",
+    "k": 3,
+    "user_input": "Según las secciones 2 y 5 de la FDS 31, ¿qué riesgo de inflamabilidad se identifica y qué agentes extintores se recomiendan o desaconsejan?",
+    "response": "No encuentro información suficiente en las FDS recuperadas para responder a esta pregunta.",
+    "retrieved_contexts": [
+      "### SECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\nRequerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca\nmantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada\npor vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido\nafectadas en la ingestión. Mantener al afectado en reposo.\n4.2\nSín",
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n**3.1 Sustancias:** No aplicable.  **3.2 Mezclas:** Mezcla acuosa a base de productos químicos para recubrimientos.\n\n**Componentes (tabla transcrita del PDF original, página 2/11):**\n\n| Identificación CAS | Nombre químico | Clasificación indicada en PDF | Concentración |\n|---|---|---|---|\n| 64742-47-8 | Destilados (petróleo), fracción ligera tratada con hidrógeno | Tox. Asp. 1: H304 - Peligro | 10 - <30 % |\n| 64742-48-9 | Na",
+      "4.1\nDescripción de los primeros auxilios necesarios:\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso\nde duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este\nproducto.\nPor inhalación:\nSe trata de un producto que no contiene sustancias clasificadas como peligrosas por inhalación, sin embargo, en caso de\nsíntomas de intoxicación sacar al af"
+    ],
+    "reference": "El producto presenta H226 (líquido y vapores inflamables). Se recomienda preferentemente polvo ABC; alternativamente espuma o CO2. No se recomienda agua a chorro."
+  },
+  {
+    "id_pregunta": "P08",
+    "k": 3,
+    "user_input": "Según las secciones 1 y 3 de la FDS 32, ¿cuál es el uso recomendado de Pintulaca Blanco 7519 y qué concentración de xileno contiene?",
+    "response": "Según la sección 3 de la FDS 32, el producto Pintulaca Blanco 7519 se describe como una mezcla a base de productos químicos, y sus componentes son:\n\n* Dioxido de titanio (13463-67-7) con una concentración de 10 - <25 %.\n* Acetato de etilo (141-78-6) con una concentración de 10 - <25 %.\n* Xileno (1330-20-7) con una concentración de 10 - <25 %.\n* Acetato de isobutilo (110-19-0) con una concentración de 2.5 - <5 %.\n\nNo se proporciona información sobre el uso recomendado de Pintulaca Blanco 7519 en la sección 3 de la FDS 32. Sin embargo, se menciona que para ampliar información sobre la peligrosidad de las sustancias, se deben consultar las secciones 8, 11, 12, 15 y 16.\n\nEn cuanto a la",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Mezcla a base de productos químicos\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\n| Identificación (CAS) | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| 13463-67-7 | Dioxido de titanio | 10 - <25 % |\n| 141-78-6 | Acetato de etilo | 10 - <25 % |\n| 1330-20-7 | Xileno | 10 - <25 % |\n| 110-19-0 | Acetato de isobutilo | 2.5 -",
+      "acción alifática intermedia | 1 - <2.5 % |\n| 8052-41-3 | Disolvente de Stoddard, < 0.1 % EC 200-753-7 | 1 - <2.5 % |\n| 100-41-4 | Etilbenceno | <1 % |\nPara ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto\nCarcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de\nclasificación SGA, para información sobre la clasificación IARC consulte la sección 1",
+      "11.1\nInformación sobre las posibles vías de exposición:\nNo se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas\nContiene glicoles, posibilidad de efectos peligrosos para la salud, por lo que se recomienda no respirar sus vapores prolongadamente\nEfectos peligrosos para la salud:\nEn caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición\nprofesionales, pueden producirse efe"
+    ],
+    "reference": "Uso recomendado: pintura industrial, exclusiva para usuario profesional. Contiene xileno (CAS 1330-20-7) entre 10 % y menos de 25 %."
+  },
+  {
+    "id_pregunta": "P09",
+    "k": 3,
+    "user_input": "Compara la concentración declarada de xileno en las FDS 51 y 102. ¿Qué intervalo corresponde a cada producto?",
+    "response": "Según la FDS 51, página 2, sección registrada 3, la concentración declarada de xileno es del 25 - <50 % [FUENTE 1].\n\nEn cuanto a la FDS 102, no se menciona una concentración específica de xileno, pero sí se menciona que la mezcla de xilenos es del 7 - <10 % [FUENTE 2].\n\nPor lo tanto, podemos concluir que el intervalo de concentración de xileno en la FDS 51 es del 25 - <50 % y en la FDS 102 es del 7 - <10 %.",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Dispersión de pigmentos en disolventes\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\nXileno\nCAS:\n1330-20-7\n25 - <50 %\nIrrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332; Tox. Agud. 5: H303 - Atención\nAcrilato de poliol\nCAS:\nNo aplicable\n25 - <50 %\nIrrit. oc. 2: H319 - Atención\nDioxido de titanio (diámetro aerodinámico ≤ 10 μ",
+      "anscripción lineal original se conserva más abajo para cotejo. Evitar indexar ambas representaciones simultáneamente.\n\n| Nombre de ingrediente | % | Número CAS |\n| --- | --- | --- |\n| Sulfato de bario | 30 - <60 | 7727-43-7 |\n| sílice cristalina, polvo no respirable (>10 micras) | 20 - <30 | 14808-60-7 |\n| Metilisobutilcetona | 7 - <10 | 108-10-1 |\n| RESINA EPOXI (700<MW<=1100) | 7 - <10 | 25036-25-3 |\n| Xilenos, mezcla isómeros | 7 - <10 | 1330-20-7 |\n| Oxido de hierro (Fe2O3) | 3 - <",
+      "### 2 - <10 %\n\nCAS:\n105-46-4\nLiq. Infl. 2: H225 - Peligro\nNegro de carbon\nCAS:\n1333-86-4\n<2 %\nCarc. 2: H351 - Atención\nPara ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto\nCarcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de\nclasificación SGA, para información sobre la clasificación IARC consulte la sección 11."
+    ],
+    "reference": "La FDS 51 declara xileno CAS 1330-20-7 entre 25 % y menos de 50 %. La FDS 102 declara xilenos, mezcla de isómeros, CAS 1330-20-7, entre 7 % y menos de 10 %."
+  },
+  {
+    "id_pregunta": "P10",
+    "k": 3,
+    "user_input": "Compara la categoría de líquido inflamable indicada para MADETEC P-402 (FDS 97) y AMERCOAT 370 RESIN OXIDE RED (FDS 102).",
+    "response": "Según las fuentes proporcionadas, la categoría de líquido inflamable para MADETEC P-402 (FDS 97) es Categoría 3, mientras que para AMERCOAT 370 RESIN OXIDE RED (FDS 102) es Categoría 2.\n\n[FUENTE 1]\n\n[FUENTE 2]\n\nNo encuentro información suficiente en las FDS recuperadas para comparar las categorías de líquido inflamable de ambos productos.",
+    "retrieved_contexts": [
+      ":\n2013.\nClasificación de la\n:\nLÍQUIDOS INFLAMABLES - Categoría 3\nsustancia química\nTOXICIDAD AGUDA (dérmica) - Categoría 5\npeligrosa o mezcla\nIRRITACIÓN CUTÁNEA - Categoría 2\nIRRITACIÓN OCULAR - Categoría 2A\nMUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 1B\nCARCINOGENICIDAD - Categoría 1B\nTOXICIDAD ESPECÍFICA DE ÓRGANOS BLANCO (EXPOSICIÓN ÚNICA)\n(Irritación de las vías respiratorias) - Categoría 3\nIngredientes de toxicidad\n:\n0%\ndesconocida\nIngredientes de\n:  0%\necotoxicidad desconocid",
+      "### Sección 2. Identificación de los peligros\n\nClasificación de la\n:\nLÍQUIDOS INFLAMABLES - Categoría 2\nsustancia química\nTOXICIDAD AGUDA (dérmica) - Categoría 5\npeligrosa o mezcla\nTOXICIDAD AGUDA (inhalación) - Categoría 4\nIRRITACIÓN CUTÁNEA - Categoría 2\nIRRITACIÓN OCULAR - Categoría 2A\nSENSIBILIZACIÓN CUTÁNEA - Categoría 1\nCARCINOGENICIDAD - Categoría 1A\nTOXICIDAD ESPECÍFICA DE ÓRGANOS BLANCO (EXPOSICIONES REPETIDAS)\n- Categoría 2\nPELIGRO (AGUDO) PARA EL MEDIO AMBIENTE ACUÁTICO - Ca",
+      "1973 con el Protocolo de 1978. (\"Marpol\" = polución marina)\nN/A = No disponible\nSGG = Grupo de segregación\nONU = Organización de las Naciones Unidas\nProcedimiento utilizado para obtener la clasificación\nClasificación\nJustificación\nLÍQUIDOS INFLAMABLES - Categoría 3\nEn base a datos de ensayos\nTOXICIDAD AGUDA (dérmica) - Categoría 5\nMétodo de cálculo\nIRRITACIÓN CUTÁNEA - Categoría 2\nMétodo de cálculo\nIRRITACIÓN OCULAR - Categoría 2A\nMétodo de cálculo\nMUTAGENICIDAD EN CÉLULAS GERMINALES -"
+    ],
+    "reference": "MADETEC P-402 está clasificado como líquido inflamable de categoría 3; AMERCOAT 370 RESIN OXIDE RED, categoría 2."
+  },
+  {
+    "id_pregunta": "P11",
+    "k": 3,
+    "user_input": "¿Cuál será el precio de venta exacto en pesos colombianos de un galón de Pintulaca Blanco 7519 el 1 de enero de 2030?",
+    "response": "No encuentro información suficiente en las FDS recuperadas para determinar el precio de venta exacto en pesos colombianos de un galón de Pintulaca Blanco 7519 el 1 de enero de 2030.",
+    "retrieved_contexts": [
+      "### SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO\n\nPINTULACA BLANCO 7519\n1.1\nIdentificador SGA del producto:\n10014720-10012716\n1.2\nUso recomendado del producto químico y restricciones:\nUsos pertinentes: Pintura industrial. Uso exclusivo usuario profesional.\nUsos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3\n1.3\nDatos sobre el proveedor:\nPintuco\nAutopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1\n054040 Rionegro - Antioquia - Colombia\nTfno.: 57 4 569",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\nPINTULACA BLANCO 7519\n10014720-10012716",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\nPINTULACA BLANCO 7519\n10014720-10012716"
+    ],
+    "reference": null
+  },
+  {
+    "id_pregunta": "P12",
+    "k": 3,
+    "user_input": "¿Cuántas unidades de AMERCOAT 370 RESIN OXIDE RED se venderán en Colombia durante 2029?",
+    "response": "Lo siento, pero no puedo proporcionar una respuesta a esa pregunta.",
+    "retrieved_contexts": [
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "reference": null
+  },
+  {
+    "id_pregunta": "P01",
+    "k": 6,
+    "user_input": "Según la FDS 31, ¿qué empresa figura como proveedor del Recubrimiento Antigraffiti 407141521?",
+    "response": "Lo siento, pero no tengo información suficiente en las FDS recuperadas para determinar el proveedor del Recubrimiento Antigraffiti 407141521.",
+    "retrieved_contexts": [
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\n407141521 - RECUBRIMIENTO ANTIGRAFFITI"
+    ],
+    "reference": "El proveedor indicado es CORLANC S.A.S."
+  },
+  {
+    "id_pregunta": "P02",
+    "k": 6,
+    "user_input": "En la FDS 33, ¿cuál es el CAS y el intervalo de concentración de los destilados de petróleo de fracción ligera tratados con hidrógeno?",
+    "response": "Según la FDS 33, página 2, sección registrada 3, el CAS y el intervalo de concentración de los destilados de petróleo de fracción ligera tratados con hidrógeno son:\n\nCAS: 64742-47-8\nConcentración: 50 - <75 % [FUENTE 1]",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Mezcla a base de productos químicos\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\n| Identificación | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| CAS: 64742-47-8 | Destilados (petróleo), fracción ligera tratada con hidrógeno | 50 - <75 % |\n| CAS: 136-52-7 | Bis(2-etilhexanoato) de cobalto | <1 % |\n\nPara ampliar informaci",
+      "a vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciones 2, 3 y 15.\n-   Cutánea: El contacto prolongado con la piel puede derivar en episodios de dermatitis alérgicas de contacto.\nF- Toxicidad específica en determinados órganos (STOT)-exposición única:\nUna exposición a altas concentraciones pueden motivar depresión del sistema nervioso central oc",
+      "### SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\nTemperatura de descomposición:\nNo relevante *\nPunto de fusión/punto de congelación:\nNo relevante *\nPropiedades explosivas:\nNo relevante *\nPropiedades comburentes:\nNo relevante *\nInflamabilidad:\nPunto de inflamación:\n55 ºC\nInflamabilidad (sólido, gas):\nNo relevante *\nTemperatura de auto-inflamación:\n200 ºC\nLímite de inflamabilidad inferior:\nNo determinado\nLímite de inflamabilidad superior:\nNo determ",
+      "contra incendios:\nEn función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración\nautónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...).\nDisposiciones adicionales:\nActuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias.\nSuprimir cualquier fuente de ignición. En caso de incendio, refrig",
+      "4435:2010\nTextos de las frases legislativas contempladas en la sección 2:\nH315: Provoca irritación cutánea\nH336: Puede provocar somnolencia o vértigo\nH412: Nocivo para los organismos acuáticos, con efectos nocivos duraderos\nH402: Nocivo para los organismos acuáticos\nH317: Puede provocar una reacción cutánea alérgica\nH304: Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias\nH226: Líquido y vapores inflamables\nTextos de las frases legislativas contempladas e",
+      "ia.\nG- Toxicidad específica en determinados órganos (STOT)-exposición repetida:\n-   Toxicidad específica en determinados órganos (STOT)-exposición rep\netida: A la vista de los datos disponibles, no se cumplen\nlos criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver\nsección 3.\n-   Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas\ncomo peli"
+    ],
+    "reference": "CAS 64742-47-8, concentración entre 50 % y menos de 75 %."
+  },
+  {
+    "id_pregunta": "P03",
+    "k": 6,
+    "user_input": "En la FDS 51, ¿qué concentración y clasificación de inflamabilidad se indican para el xileno?",
+    "response": "Según la FDS 51, página 2, sección registrada sin verificar, el xileno tiene una concentración de 25 - <50 % y se clasifica como Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332; Tox. Agud. 5: H303 - Atención.",
+    "retrieved_contexts": [
+      "### Tabla reconstruida desde el PDF original (página 2)\n\n> Evidencia de disposición de columnas obtenida del PDF. Estado: **RECONSTRUCCION_AUTOMATICA_ALTA**. No indexar simultáneamente esta tabla y su transcripción lineal para evitar duplicados.\n\n| Identificación | Nombre químico/clasificación | Concentración |\n| --- | --- | --- |\n| CAS: 1330-20-7 | Xileno Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332; Tox. Agud. 5: H303 - Atención | 25 - <50 % |\n| CAS: No aplicable",
+      "-   Contacto con la piel: Produce inflamación cutánea.\n-   Contacto con los ojos: Produce lesiones oculares tras contacto.\nD- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):\n-   Carcinogenicidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta\nsustancias clasificadas como peligrosas con efectos cancerígenos. Para más información ver sección 3 de la FDS.\nIARC: Xileno (3); Dioxido de titanio (diámetr",
+      "cto diluido podrán variar en función de su grado de dilución, uso, método de\naplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se\ntendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más\ninformación ver epígrafes 7.1 y 7.2 de la FDS.\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de\nprevención de ries",
+      "secciones 2, 3 y 15 de la FDS.\n-   Cutánea: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\nF- Toxicidad específica en determinados órganos (STOT)-exposición única:\nA la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como\npeligrosas por este efecto. Para más informac",
+      "uede originar irritación de garganta, dolor abdominal,\nnáuseas y vómitos.\nB- Inhalación (efecto agudo):\n-   Toxicidad aguda: Una exposición a altas concentraciones pueden motivar depresión del sistema nervioso central\nocasionando dolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de\nconciencia.\n-   Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando\nsustancias clas",
+      "Legislación aplicable a fichas de datos de seguridad:\nEsta ficha de datos de seguridad se ha desarrollado de conformidad al Decreto 1496 de 2018 y a la Resolución 773 de 2021,\ncontando con los elementos definidos en el ANEXO 4 - Guía para la elaboración de fichas de datos de seguridad (FDS) del\nSistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA), sexta edición revisada (2015).\nTextos de las frases legislativas contempladas en la sección 2:\nH226: Líq"
+    ],
+    "reference": "El xileno (CAS 1330-20-7) aparece entre 25 % y menos de 50 %, clasificado como líquido inflamable, categoría 3 (H226)."
+  },
+  {
+    "id_pregunta": "P04",
+    "k": 6,
+    "user_input": "En la FDS 97, ¿qué indica el código de peligro H335 para MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402?",
+    "response": "Según la FDS 97, el código de peligro H335 indica que la sustancia puede irritar las vías respiratorias. [FUENTE 3]",
+    "retrieved_contexts": [
+      "MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402\nUso profesional Uso industrial\nCódigo del producto SAMPLE_N2320018 00P-402-A-4\nPeligro\nFabricante:\nAutopista Medellín Bogotá Km 37\nVía Belén Rionegro Km 1\nLíquido y vapores inflamables. Puede ser nocivo en contacto\n054040 Rionegro - Antioquia -\ncon la piel. Provoca irritación cutánea. Provoca irritación\nColombia\nocular grave. Puede irritar las vías respiratorias. Puede\n01 8000 111 247\nprovocar defectos genéticos. Puede provocar cáncer.\nM",
+      "### Sección 1. Identificación\n\n:  MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402\nNombre del producto\nUso recomendado de la sustancia química peligrosa o mezcla, y restricciones de uso\nUsos identificados\nUso profesional\nUso industrial\nUsos contraindicados\nUso por parte del consumidor\nUso del producto\n:\nRecubrimiento base disolvente para uso\ninterior y exterior.\nDatos del proveedor o\n:\nfabricante\nAutopista Medellín Bogotá Km 37\nVía Belén Rionegro Km 1\n054040 Rionegro - Antioquia - Colo",
+      "Palabra de advertencia\n:\nPeligro\n:\nH226 - Líquido y vapores inflamables.\nIndicaciones de peligro\nH313 - Puede ser nocivo en contacto con la piel.\nH315 - Provoca irritación cutánea.\nH319 - Provoca irritación ocular grave.\nH335 - Puede irritar las vías respiratorias.\nH340 - Puede provocar defectos genéticos.\nH350 - Puede provocar cáncer.\nConsejos de prudencia\nPrevención\n:\nP201 - Procurarse las instrucciones antes del uso.\nP280 - Usar guantes de protección, ropa de protección e equipo de",
+      "de n-butilo\n123-86-4\n≤10\nAcetato de isobutilo\n110-19-0\n≤3\nAcetato de 1-metil-2-metoxietilo\n108-65-6\n≤3\nTolueno\n108-88-3\n41556-26-7\n≤0.3\nNafta VM y P\ns\nebacato de bis(1,2,2,6,6-pentametil-4-piperidilo)\n8032-32-4\n≤0.3\n<0.25\nUN1263\nMADETEC POLIURETANO LACA SEMIMATE\nINCOLORO P-402\nFecha de emisión/Fecha de revisión\n: 28-8-2025\nFecha de la edición anterior\n: 17-1-2025\nVersión\n: 2\n16/16\n\n#### Imagen incrustada — PDF página 16, aparición 1\n![Imagen extraída; clasificación técnica pendiente](i",
+      "a isómeros | ≥25 - ≤40 | 1330-20-7 |\n| Etilbenceno | <10 | 100-41-4 |\n| Acetato de n-butilo | ≤10 | 123-86-4 |\n| Acetato de isobutilo | ≤3 | 110-19-0 |\n| Acetato de 1-metil-2-metoxietilo | ≤3 | 108-65-6 |\n| Tolueno | ≤0.3 | 108-88-3 |\n| sebacato de bis(1,2,2,6,6-pentametil-4-piperidilo) | <0.25 | 41556-26-7 |\n| Nafta VM y P | ≤0.3 | 8032-32-4 |\n\nMADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402",
+      "### Sección 2. Identificación de los peligros\n\nINEN 2266:2013:\nLa clasificación de este producto ha sido realizada según la NORMA TÉCNICA ECUATORIANA NTE INEN 2266:\n2013.\nClasificación de la\n:\nLÍQUIDOS INFLAMABLES - Categoría 3\nsustancia química\nTOXICIDAD AGUDA (dérmica) - Categoría 5\npeligrosa o mezcla\nIRRITACIÓN CUTÁNEA - Categoría 2\nIRRITACIÓN OCULAR - Categoría 2A\nMUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 1B\nCARCINOGENICIDAD - Categoría 1B\nTOXICIDAD ESPECÍFICA DE ÓRGANOS BLAN"
+    ],
+    "reference": "H335: Puede irritar las vías respiratorias."
+  },
+  {
+    "id_pregunta": "P05",
+    "k": 6,
+    "user_input": "Según la sección 1 de la FDS 102, ¿cuál es la versión y la fecha de emisión de AMERCOAT 370 RESIN OXIDE RED?",
+    "response": "Según la sección 1 de la FDS 102, la versión de AMERCOAT 370 RESIN OXIDE RED es 7 y la fecha de emisión es 14 Agosto 2025.",
+    "retrieved_contexts": [
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "reference": "Versión 7, emitida el 14 de agosto de 2025."
+  },
+  {
+    "id_pregunta": "P06",
+    "k": 6,
+    "user_input": "En la FDS 32, ¿qué CAS y concentración corresponden al acetato de etilo?",
+    "response": "Según la FDS 32, página 2, sección registrada 3, el acetato de etilo tiene la siguiente información:\n\n| Identificación (CAS) | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| 141-78-6 | Acetato de etilo | 10 - <25 % |\n\nAdemás, según la FDS 32, página 13, sección registrada 16, el acetato de etilo tiene la siguiente clasificación:\n\n* H315 - Provoca irritación cutánea\n* H319 - Provoca irritación ocular grave\n* H225 - Líquido y vapores muy inflamables\n* H226 - Líquido y vapores inflamables\n* H227 - Líquido combustible\n* STOT unica 3 - Puede provocar somnolencia o vértigo\n* Tox. Agud. 4 - Nocivo en caso de exposición\n\nEs importante destacar que la concentración del acetato de et",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Mezcla a base de productos químicos\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\n| Identificación (CAS) | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| 13463-67-7 | Dioxido de titanio | 10 - <25 % |\n| 141-78-6 | Acetato de etilo | 10 - <25 % |\n| 1330-20-7 | Xileno | 10 - <25 % |\n| 110-19-0 | Acetato de isobutilo | 2.5 -",
+      "acción alifática intermedia | 1 - <2.5 % |\n| 8052-41-3 | Disolvente de Stoddard, < 0.1 % EC 200-753-7 | 1 - <2.5 % |\n| 100-41-4 | Etilbenceno | <1 % |\nPara ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto\nCarcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de\nclasificación SGA, para información sobre la clasificación IARC consulte la sección 1",
+      "11.1\nInformación sobre las posibles vías de exposición:\nNo se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas\nContiene glicoles, posibilidad de efectos peligrosos para la salud, por lo que se recomienda no respirar sus vapores prolongadamente\nEfectos peligrosos para la salud:\nEn caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición\nprofesionales, pueden producirse efe",
+      "os datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas\ncomo peligrosas por este efecto. Para más información ver sección 3.\nH- Peligro por aspiración:\nA la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver sección 3.\nInformación adicional:\nCAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay\nsuficientes evidenc",
+      "- Nocivo para los organismos acuáticos\nAcuatico cronico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos\nIrrit. Cut. 2: H315 - Provoca irritación cutánea\nIrrit. oc. 2: H319 - Provoca irritación ocular grave\nLiq. Infl. 2: H225 - Líquido y vapores muy inflamables\nLiq. Infl. 3: H226 - Líquido y vapores inflamables\nLiq. Infl. 4: H227 - Líquido combustible\nSTOT unica 3: H336 - Puede provocar somnolencia o vértigo\nTox. Agud. 4: H302+H312+H332 - Nocivo en caso d",
+      "de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas por este efecto. Para m\nás información ver sección 3.\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\nEmisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (sustituye a 2)\nPágina 7/14\n\n#### Imagen incrustada — PDF página 7, aparición 1\n![Imagen extraída; clasificación técnica pendiente](imagenes/recurso_001_bce6ad87.jpeg)\n> Sección aproximada: 11; posic"
+    ],
+    "reference": "CAS 141-78-6; concentración entre 10 % y menos de 25 %."
+  },
+  {
+    "id_pregunta": "P07",
+    "k": 6,
+    "user_input": "Según las secciones 2 y 5 de la FDS 31, ¿qué riesgo de inflamabilidad se identifica y qué agentes extintores se recomiendan o desaconsejan?",
+    "response": "Según la sección 2 de la FDS 31, se identifica un riesgo de inflamabilidad, específicamente un \"Liq. Infl. 3: H226 - Líquido y vapores inflamables\". Esto indica que el producto es inflamable.\n\nEn cuanto a los agentes extintores, no se proporciona información específica en la sección 2 de la FDS 31. Sin embargo, en la sección 5, se menciona que se recomienda la formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este producto, lo que sugiere que se deben tomar precauciones especiales para evitar accidentes.\n\nEn la sección 16 de la FDS 31, se menciona que se recomienda utilizar agentes extintores específicos para este tipo de producto, pero no se proporciona información detallada sobre los agentes extintores recomendados o desaconsejados.\n\nEn resumen, no se proporciona información específica sobre los agentes extintores recomendados",
+    "retrieved_contexts": [
+      "### SECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\nRequerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca\nmantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada\npor vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido\nafectadas en la ingestión. Mantener al afectado en reposo.\n4.2\nSín",
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n**3.1 Sustancias:** No aplicable.  **3.2 Mezclas:** Mezcla acuosa a base de productos químicos para recubrimientos.\n\n**Componentes (tabla transcrita del PDF original, página 2/11):**\n\n| Identificación CAS | Nombre químico | Clasificación indicada en PDF | Concentración |\n|---|---|---|---|\n| 64742-47-8 | Destilados (petróleo), fracción ligera tratada con hidrógeno | Tox. Asp. 1: H304 - Peligro | 10 - <30 % |\n| 64742-48-9 | Na",
+      "4.1\nDescripción de los primeros auxilios necesarios:\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso\nde duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este\nproducto.\nPor inhalación:\nSe trata de un producto que no contiene sustancias clasificadas como peligrosas por inhalación, sin embargo, en caso de\nsíntomas de intoxicación sacar al af",
+      "### SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS\n\nIndicaciones de peligro:\nCarc. 1B: H350 - Puede provocar cáncer\nIrrit. oc. 2: H319 - Provoca irritación ocular grave\nLiq. Infl. 3: H226 - Líquido y vapores inflamables\nMuta. 1B: H340 - Puede provocar defectos genéticos\nSens. Cut. 1: H317 - Puede provocar una reacción cutánea alérgica\nTox. Agud. 5: H313 - Puede ser nocivo en contacto con la piel\nTox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías re",
+      "ta. 1B: H340 - Puede provocar defectos genéticos\nSens. Cut. 1: H317 - Puede provocar una reacción cutánea alérgica\nTox. Agud. 5: H303 - Puede ser nocivo en caso de ingestión\nTox. Agud. 5: H313 - Puede ser nocivo en contacto con la piel\nTox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias\nConsejos relativos a la formación:\nSe recomienda formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este produ",
+      "### SECCIÓN 16: OTRAS INFORMACIONES\n\nLegislación aplicable a fichas de datos de seguridad:\nEsta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010\nTextos de las frases legislativas contempladas en la sección 2:\nH340: Puede provocar defectos genéticos\nH350: Puede provocar cáncer\nH317: Puede provocar una reacción cutánea alérgica\nH313: Puede ser nocivo en contacto con la piel\nH304: Puede ser mortal en caso de ingestión y de"
+    ],
+    "reference": "El producto presenta H226 (líquido y vapores inflamables). Se recomienda preferentemente polvo ABC; alternativamente espuma o CO2. No se recomienda agua a chorro."
+  },
+  {
+    "id_pregunta": "P08",
+    "k": 6,
+    "user_input": "Según las secciones 1 y 3 de la FDS 32, ¿cuál es el uso recomendado de Pintulaca Blanco 7519 y qué concentración de xileno contiene?",
+    "response": "Según la sección 3 de la FDS 32, el producto Pintulaca Blanco 7519 es una mezcla a base de productos químicos, y su composición es la siguiente:\n\n*   Dioxido de titanio (CAS 13463-67-7): 10 - <25 %\n*   Acetato de etilo (CAS 141-78-6): 10 - <25 %\n*   Xileno (CAS 1330-20-7): 10 - <25 %\n*   Acetato de isobutilo (CAS 110-19-0): 2.5 -\n\nNo se proporciona una concentración específica de xileno en la FDS 32.\n\nEn cuanto al uso recomendado, no se proporciona información en la sección 3 de la FDS 32.\n\nNo encuentro información suficiente en las FDS recuperadas para proporcionar una respuesta más detallada.",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Mezcla a base de productos químicos\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\n| Identificación (CAS) | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| 13463-67-7 | Dioxido de titanio | 10 - <25 % |\n| 141-78-6 | Acetato de etilo | 10 - <25 % |\n| 1330-20-7 | Xileno | 10 - <25 % |\n| 110-19-0 | Acetato de isobutilo | 2.5 -",
+      "acción alifática intermedia | 1 - <2.5 % |\n| 8052-41-3 | Disolvente de Stoddard, < 0.1 % EC 200-753-7 | 1 - <2.5 % |\n| 100-41-4 | Etilbenceno | <1 % |\nPara ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto\nCarcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de\nclasificación SGA, para información sobre la clasificación IARC consulte la sección 1",
+      "11.1\nInformación sobre las posibles vías de exposición:\nNo se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas\nContiene glicoles, posibilidad de efectos peligrosos para la salud, por lo que se recomienda no respirar sus vapores prolongadamente\nEfectos peligrosos para la salud:\nEn caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición\nprofesionales, pueden producirse efe",
+      "ección 3.\nC- Contacto con la piel y los ojos (efecto agudo):\n-   Contacto con la piel: Produce inflamación cutánea.\n-   Contacto con los ojos: Produce lesiones oculares tras contacto.\nD- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):\n-   Carcinogenicidad: No se cumplen criterios de clasificación. Para más información sobre posibles efectos específicos sobre la\nsalud ver sección 2.\nIARC: Propan-2-ol (3); 2-butoxietanol (3); Tolueno (3); Xileno (3); Etilb",
+      "rmación adicional:\nCAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay\nsuficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres\nhumanos.\nLa monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de\nproductos en los qu",
+      "de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas por este efecto. Para m\nás información ver sección 3.\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\nEmisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (sustituye a 2)\nPágina 7/14\n\n#### Imagen incrustada — PDF página 7, aparición 1\n![Imagen extraída; clasificación técnica pendiente](imagenes/recurso_001_bce6ad87.jpeg)\n> Sección aproximada: 11; posic"
+    ],
+    "reference": "Uso recomendado: pintura industrial, exclusiva para usuario profesional. Contiene xileno (CAS 1330-20-7) entre 10 % y menos de 25 %."
+  },
+  {
+    "id_pregunta": "P09",
+    "k": 6,
+    "user_input": "Compara la concentración declarada de xileno en las FDS 51 y 102. ¿Qué intervalo corresponde a cada producto?",
+    "response": "Según las FDS 51 y 102, la concentración declarada de xileno es la siguiente:\n\n*   FDS 51: 25 - <50 % [FUENTE 1]\n*   FDS 102: 7 - <10 % [FUENTE 2]\n\nEn otras palabras, el producto FDS 51 contiene entre el 25% y el 50% de xileno, mientras que el producto FDS 102 contiene menos de 10% de xileno.",
+    "retrieved_contexts": [
+      "### SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\n3.1\nSustancias:\nNo aplicable\n3.2\nMezclas:\nDescripción química: Dispersión de pigmentos en disolventes\nComponentes:\nDe acuerdo al Decreto 1496 de 2018, el producto presenta:\nXileno\nCAS:\n1330-20-7\n25 - <50 %\nIrrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332; Tox. Agud. 5: H303 - Atención\nAcrilato de poliol\nCAS:\nNo aplicable\n25 - <50 %\nIrrit. oc. 2: H319 - Atención\nDioxido de titanio (diámetro aerodinámico ≤ 10 μ",
+      "anscripción lineal original se conserva más abajo para cotejo. Evitar indexar ambas representaciones simultáneamente.\n\n| Nombre de ingrediente | % | Número CAS |\n| --- | --- | --- |\n| Sulfato de bario | 30 - <60 | 7727-43-7 |\n| sílice cristalina, polvo no respirable (>10 micras) | 20 - <30 | 14808-60-7 |\n| Metilisobutilcetona | 7 - <10 | 108-10-1 |\n| RESINA EPOXI (700<MW<=1100) | 7 - <10 | 25036-25-3 |\n| Xilenos, mezcla isómeros | 7 - <10 | 1330-20-7 |\n| Oxido de hierro (Fe2O3) | 3 - <",
+      "### 2 - <10 %\n\nCAS:\n105-46-4\nLiq. Infl. 2: H225 - Peligro\nNegro de carbon\nCAS:\n1333-86-4\n<2 %\nCarc. 2: H351 - Atención\nPara ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto\nCarcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de\nclasificación SGA, para información sobre la clasificación IARC consulte la sección 11.",
+      "11.1\nInformación sobre las posibles vías de exposición:\nNo se dispone de datos experimentales del producto en sí mismo relativos a las propiedades toxicológicas\nEfectos peligrosos para la salud:\nEn caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición\nprofesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición:\nA- Ingestión (efecto agudo):\n-   Toxicidad aguda: La ingesta de una do",
+      "### Sección 3. Composición / información sobre los componentes\n\nSustancia/mezcla\n:\nMezcla\nOtros medios de\n: No disponible.\nidentificación\nNúmero CAS/otros identificadores\nNúmero CAS\n: No aplicable.\nMetilisobutilcetona",
+      "secciones 2, 3 y 15 de la FDS.\n-   Cutánea: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias\nclasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\nF- Toxicidad específica en determinados órganos (STOT)-exposición única:\nA la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como\npeligrosas por este efecto. Para más informac"
+    ],
+    "reference": "La FDS 51 declara xileno CAS 1330-20-7 entre 25 % y menos de 50 %. La FDS 102 declara xilenos, mezcla de isómeros, CAS 1330-20-7, entre 7 % y menos de 10 %."
+  },
+  {
+    "id_pregunta": "P10",
+    "k": 6,
+    "user_input": "Compara la categoría de líquido inflamable indicada para MADETEC P-402 (FDS 97) y AMERCOAT 370 RESIN OXIDE RED (FDS 102).",
+    "response": "Según las fuentes proporcionadas, la categoría de líquido inflamable para MADETEC P-402 (FDS 97) es Categoría 3, mientras que para AMERCOAT 370 RESIN OXIDE RED (FDS 102) no se indica una categoría específica de líquido inflamable.",
+    "retrieved_contexts": [
+      ":\n2013.\nClasificación de la\n:\nLÍQUIDOS INFLAMABLES - Categoría 3\nsustancia química\nTOXICIDAD AGUDA (dérmica) - Categoría 5\npeligrosa o mezcla\nIRRITACIÓN CUTÁNEA - Categoría 2\nIRRITACIÓN OCULAR - Categoría 2A\nMUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 1B\nCARCINOGENICIDAD - Categoría 1B\nTOXICIDAD ESPECÍFICA DE ÓRGANOS BLANCO (EXPOSICIÓN ÚNICA)\n(Irritación de las vías respiratorias) - Categoría 3\nIngredientes de toxicidad\n:\n0%\ndesconocida\nIngredientes de\n:  0%\necotoxicidad desconocid",
+      "### Sección 2. Identificación de los peligros\n\nClasificación de la\n:\nLÍQUIDOS INFLAMABLES - Categoría 2\nsustancia química\nTOXICIDAD AGUDA (dérmica) - Categoría 5\npeligrosa o mezcla\nTOXICIDAD AGUDA (inhalación) - Categoría 4\nIRRITACIÓN CUTÁNEA - Categoría 2\nIRRITACIÓN OCULAR - Categoría 2A\nSENSIBILIZACIÓN CUTÁNEA - Categoría 1\nCARCINOGENICIDAD - Categoría 1A\nTOXICIDAD ESPECÍFICA DE ÓRGANOS BLANCO (EXPOSICIONES REPETIDAS)\n- Categoría 2\nPELIGRO (AGUDO) PARA EL MEDIO AMBIENTE ACUÁTICO - Ca",
+      "1973 con el Protocolo de 1978. (\"Marpol\" = polución marina)\nN/A = No disponible\nSGG = Grupo de segregación\nONU = Organización de las Naciones Unidas\nProcedimiento utilizado para obtener la clasificación\nClasificación\nJustificación\nLÍQUIDOS INFLAMABLES - Categoría 3\nEn base a datos de ensayos\nTOXICIDAD AGUDA (dérmica) - Categoría 5\nMétodo de cálculo\nIRRITACIÓN CUTÁNEA - Categoría 2\nMétodo de cálculo\nIRRITACIÓN OCULAR - Categoría 2A\nMétodo de cálculo\nMUTAGENICIDAD EN CÉLULAS GERMINALES -",
+      "### Sección 2. Identificación de los peligros\n\nOtros peligros que no\n: El contacto prolongado o repetido puede resecar la piel y causar irritación.\ncontribuyen en la\nclasificación",
+      "### Sección 1. Identificación\n\n:  MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402\nNombre del producto\nUso recomendado de la sustancia química peligrosa o mezcla, y restricciones de uso\nUsos identificados\nUso profesional\nUso industrial\nUsos contraindicados\nUso por parte del consumidor\nUso del producto\n:\nRecubrimiento base disolvente para uso\ninterior y exterior.\nDatos del proveedor o\n:\nfabricante\nAutopista Medellín Bogotá Km 37\nVía Belén Rionegro Km 1\n054040 Rionegro - Antioquia - Colo",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "reference": "MADETEC P-402 está clasificado como líquido inflamable de categoría 3; AMERCOAT 370 RESIN OXIDE RED, categoría 2."
+  },
+  {
+    "id_pregunta": "P11",
+    "k": 6,
+    "user_input": "¿Cuál será el precio de venta exacto en pesos colombianos de un galón de Pintulaca Blanco 7519 el 1 de enero de 2030?",
+    "response": "No encuentro información suficiente en las FDS recuperadas para determinar el precio de venta exacto en pesos colombianos de un galón de Pintulaca Blanco 7519 el 1 de enero de 2030.",
+    "retrieved_contexts": [
+      "### SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO\n\nPINTULACA BLANCO 7519\n1.1\nIdentificador SGA del producto:\n10014720-10012716\n1.2\nUso recomendado del producto químico y restricciones:\nUsos pertinentes: Pintura industrial. Uso exclusivo usuario profesional.\nUsos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3\n1.3\nDatos sobre el proveedor:\nPintuco\nAutopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1\n054040 Rionegro - Antioquia - Colombia\nTfno.: 57 4 569",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\nPINTULACA BLANCO 7519\n10014720-10012716",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\nPINTULACA BLANCO 7519\n10014720-10012716",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\nPINTULACA BLANCO 7519\n10014720-10012716",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\nPINTULACA BLANCO 7519\n10014720-10012716",
+      "Ficha de datos de seguridad\nsegún Decreto 1496 de 2018\nPINTULACA BLANCO 7519\n10014720-10012716"
+    ],
+    "reference": null
+  },
+  {
+    "id_pregunta": "P12",
+    "k": 6,
+    "user_input": "¿Cuántas unidades de AMERCOAT 370 RESIN OXIDE RED se venderán en Colombia durante 2029?",
+    "response": "Lo siento, pero no puedo proporcionar una respuesta a esa pregunta.",
+    "retrieved_contexts": [
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED",
+      "Código\n00280673\nFecha de emisión\n14 Agosto 2025\nVersión\n7\nNombre del producto\nAMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "reference": null
+  }
+]

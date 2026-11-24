@@ -1,0 +1,7 @@
+{
+  "modelo_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dimension": 384,
+  "fragmentos": 6604,
+  "tipo_indice": "IndexFlatIP",
+  "vectores_normalizados": true
+}

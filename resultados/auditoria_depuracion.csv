@@ -1,0 +1,490 @@
+chunk_id,fds_num,pagina_pdf,incidencia,detalle
+FDS_001_P01_S1_B02_C000,1,1,seccion_sospechosa,Registrada: 1
+FDS_001_P02_S8_B06_C000,1,2,seccion_sospechosa,Registrada: 8
+FDS_003_P03_S7_B03_C000,3,3,seccion_sospechosa,Registrada: 7
+FDS_004_P01_S2_B02_C000,4,1,seccion_sospechosa,Registrada: 2
+FDS_005_P03_S7_B01_C001,5,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_005_P05_S10_B02_C001,5,5,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_005_P06_S11_B01_C002,5,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_005_P06_S11_B01_C003,5,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_006_P03_S7_B03_C001,6,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_006_P06_S10_B02_C001,6,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_006_P07_S11_B01_C002,6,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_006_P07_S1_B03_C000,6,7,seccion_sospechosa,Registrada: 1
+FDS_006_P07_S1_B04_C000,6,7,seccion_sospechosa,Registrada: 1
+FDS_006_P07_S1_B05_C000,6,7,seccion_sospechosa,Registrada: 1
+FDS_007_P06_S10_B02_C001,7,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_007_P07_S11_B01_C002,7,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_008_P06_S10_B02_C001,8,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_008_P07_S11_B01_C001,8,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_009_P01_S2_B02_C000,9,1,seccion_sospechosa,Registrada: 2
+FDS_010_P02_S2_B03_C000,10,2,seccion_sospechosa,Registrada: 2
+FDS_010_P02_S2_B04_C000,10,2,seccion_sospechosa,Registrada: 2
+FDS_010_P04_S2_B03_C000,10,4,seccion_sospechosa,Registrada: 2
+FDS_010_P04_S2_B04_C000,10,4,seccion_sospechosa,Registrada: 2
+FDS_010_P08_S11_B01_C001,10,8,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_010_P08_S2_B02_C000,10,8,seccion_sospechosa,Registrada: 2
+FDS_010_P08_S2_B03_C000,10,8,seccion_sospechosa,Registrada: 2
+FDS_010_P08_S2_B05_C000,10,8,seccion_sospechosa,Registrada: 2
+FDS_010_P09_S2_B02_C000,10,9,seccion_sospechosa,Registrada: 2
+FDS_010_P09_S2_B03_C000,10,9,seccion_sospechosa,Registrada: 2
+FDS_010_P09_S2_B04_C000,10,9,seccion_sospechosa,Registrada: 2
+FDS_010_P09_S2_B05_C000,10,9,seccion_sospechosa,Registrada: 2
+FDS_010_P09_S2_B06_C000,10,9,seccion_sospechosa,Registrada: 2
+FDS_010_P10_S2_B02_C000,10,10,seccion_sospechosa,Registrada: 2
+FDS_010_P10_S2_B03_C000,10,10,seccion_sospechosa,Registrada: 2
+FDS_013_P01_S1_B02_C000,13,1,seccion_sospechosa,Registrada: 1
+FDS_013_P02_S8_B06_C000,13,2,seccion_sospechosa,Registrada: 8
+FDS_015_P01_S1_B02_C000,15,1,seccion_sospechosa,Registrada: 1
+FDS_016_P01_S1_B02_C000,16,1,seccion_sospechosa,Registrada: 1
+FDS_017_P01_S3_B02_C000,17,1,seccion_sospechosa,Registrada: 3
+FDS_018_P03_S7_B01_C001,18,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_018_P05_S10_B02_C001,18,5,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_018_P06_S11_B01_C002,18,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_018_P06_S11_B01_C003,18,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_019_P03_S7_B02_C001,19,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_019_P06_S11_B02_C001,19,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_019_P06_S11_B02_C002,19,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_019_P06_S11_B02_C003,19,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_019_P07_S10_B03_C000,19,7,seccion_sospechosa,Registrada: 10
+FDS_019_P07_S10_B04_C000,19,7,seccion_sospechosa,Registrada: 10
+FDS_019_P07_S10_B05_C000,19,7,seccion_sospechosa,Registrada: 10
+FDS_021_P02_S10_B02_C000,21,2,seccion_sospechosa,Registrada: 10
+FDS_021_P02_S1_B03_C000,21,2,seccion_sospechosa,Registrada: 1
+FDS_021_P06_S10_B02_C001,21,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_021_P07_S11_B01_C001,21,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_021_P07_S11_B01_C003,21,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_023_P02_S2_B03_C000,23,2,seccion_sospechosa,Registrada: 2
+FDS_023_P06_S7_B01_C001,23,6,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_023_P07_S2_B02_C000,23,7,seccion_sospechosa,Registrada: 2
+FDS_023_P09_S2_B03_C000,23,9,seccion_sospechosa,Registrada: 2
+FDS_023_P09_S2_B04_C000,23,9,seccion_sospechosa,Registrada: 2
+FDS_023_P14_S16_B01_C002,23,14,seccion_explicita_distinta,Registrada: 16; encabezado: 1
+FDS_024_P02_S4_B03_C000,24,2,seccion_sospechosa,Registrada: 4
+FDS_024_P06_S7_B01_C001,24,6,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_024_P06_S7_B01_C002,24,6,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_024_P06_S4_B03_C000,24,6,seccion_sospechosa,Registrada: 4
+FDS_024_P08_S2_B04_C000,24,8,seccion_sospechosa,Registrada: 2
+FDS_024_P08_S4_B05_C000,24,8,seccion_sospechosa,Registrada: 4
+FDS_024_P09_S4_B02_C000,24,9,seccion_sospechosa,Registrada: 4
+FDS_024_P09_S4_B03_C000,24,9,seccion_sospechosa,Registrada: 4
+FDS_024_P11_S4_B03_C000,24,11,seccion_sospechosa,Registrada: 4
+FDS_024_P11_S2_B04_C000,24,11,seccion_sospechosa,Registrada: 2
+FDS_024_P11_S4_B05_C000,24,11,seccion_sospechosa,Registrada: 4
+FDS_025_P06_S7_B02_C002,25,6,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_025_P06_S7_B02_C003,25,6,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_028_P02_S2_B02_C000,28,2,seccion_sospechosa,Registrada: 2
+FDS_028_P06_S2_B02_C000,28,6,seccion_sospechosa,Registrada: 2
+FDS_029_P03_S7_B03_C001,29,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_029_P07_S11_B01_C002,29,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_030_P06_S10_B02_C001,30,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_030_P07_S11_B01_C003,30,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_030_P08_S1_B02_C000,30,8,seccion_sospechosa,Registrada: 1
+FDS_030_P08_S1_B03_C000,30,8,seccion_sospechosa,Registrada: 1
+FDS_030_P08_S1_B04_C000,30,8,seccion_sospechosa,Registrada: 1
+FDS_032_P04_S2_B03_C000,32,4,seccion_sospechosa,Registrada: 2
+FDS_032_P07_S10_B01_C001,32,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_032_P07_S11_B02_C001,32,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_032_P08_S2_B02_C000,32,8,seccion_sospechosa,Registrada: 2
+FDS_032_P09_S2_B03_C000,32,9,seccion_sospechosa,Registrada: 2
+FDS_032_P09_S10_B04_C000,32,9,seccion_sospechosa,Registrada: 10
+FDS_032_P09_S10_B05_C000,32,9,seccion_sospechosa,Registrada: 10
+FDS_032_P09_S10_B06_C000,32,9,seccion_sospechosa,Registrada: 10
+FDS_032_P10_S2_B02_C000,32,10,seccion_sospechosa,Registrada: 2
+FDS_032_P10_S2_B03_C000,32,10,seccion_sospechosa,Registrada: 2
+FDS_032_P11_S2_B02_C000,32,11,seccion_sospechosa,Registrada: 2
+FDS_033_P06_S10_B02_C001,33,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_033_P07_S11_B01_C003,33,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_033_P08_S1_B02_C000,33,8,seccion_sospechosa,Registrada: 1
+FDS_033_P08_S1_B03_C000,33,8,seccion_sospechosa,Registrada: 1
+FDS_033_P08_S1_B04_C000,33,8,seccion_sospechosa,Registrada: 1
+FDS_034_P02_S10_B02_C000,34,2,seccion_sospechosa,Registrada: 10
+FDS_034_P02_S10_B03_C000,34,2,seccion_sospechosa,Registrada: 10
+FDS_034_P02_S2_B04_C000,34,2,seccion_sospechosa,Registrada: 2
+FDS_034_P02_S1_B05_C000,34,2,seccion_sospechosa,Registrada: 1
+FDS_034_P02_S2_B06_C000,34,2,seccion_sospechosa,Registrada: 2
+FDS_034_P02_S1_B07_C000,34,2,seccion_sospechosa,Registrada: 1
+FDS_034_P02_S1_B08_C000,34,2,seccion_sospechosa,Registrada: 1
+FDS_034_P04_S2_B03_C000,34,4,seccion_sospechosa,Registrada: 2
+FDS_034_P04_S2_B04_C000,34,4,seccion_sospechosa,Registrada: 2
+FDS_034_P07_S10_B02_C001,34,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_034_P07_S11_B03_C001,34,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_034_P08_S11_B01_C001,34,8,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_034_P08_S2_B02_C000,34,8,seccion_sospechosa,Registrada: 2
+FDS_034_P09_S2_B02_C000,34,9,seccion_sospechosa,Registrada: 2
+FDS_034_P09_S2_B04_C000,34,9,seccion_sospechosa,Registrada: 2
+FDS_034_P10_S2_B02_C000,34,10,seccion_sospechosa,Registrada: 2
+FDS_034_P10_S2_B03_C000,34,10,seccion_sospechosa,Registrada: 2
+FDS_034_P10_S2_B04_C000,34,10,seccion_sospechosa,Registrada: 2
+FDS_034_P11_S2_B02_C000,34,11,seccion_sospechosa,Registrada: 2
+FDS_034_P11_S2_B03_C000,34,11,seccion_sospechosa,Registrada: 2
+FDS_034_P12_S2_B02_C000,34,12,seccion_sospechosa,Registrada: 2
+FDS_034_P12_S2_B03_C000,34,12,seccion_sospechosa,Registrada: 2
+FDS_035_P06_S10_B02_C001,35,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_035_P07_S11_B01_C002,35,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_035_P07_S11_B01_C003,35,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_035_P07_S1_B03_C000,35,7,seccion_sospechosa,Registrada: 1
+FDS_035_P07_S1_B04_C000,35,7,seccion_sospechosa,Registrada: 1
+FDS_035_P07_S1_B05_C000,35,7,seccion_sospechosa,Registrada: 1
+FDS_037_P06_S10_B02_C001,37,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_037_P07_S11_B01_C001,37,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_037_P07_S11_B01_C003,37,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_037_P08_S1_B02_C000,37,8,seccion_sospechosa,Registrada: 1
+FDS_037_P08_S1_B03_C000,37,8,seccion_sospechosa,Registrada: 1
+FDS_037_P08_S1_B04_C000,37,8,seccion_sospechosa,Registrada: 1
+FDS_037_P08_S1_B05_C000,37,8,seccion_sospechosa,Registrada: 1
+FDS_037_P08_S1_B06_C000,37,8,duplicado_exacto,Excluido
+FDS_037_P08_S1_B07_C000,37,8,seccion_sospechosa,Registrada: 1
+FDS_038_P06_S10_B02_C001,38,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_038_P07_S11_B01_C002,38,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_038_P07_S11_B01_C003,38,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_038_P08_S1_B02_C000,38,8,seccion_sospechosa,Registrada: 1
+FDS_038_P08_S1_B03_C000,38,8,seccion_sospechosa,Registrada: 1
+FDS_038_P08_S1_B04_C000,38,8,seccion_sospechosa,Registrada: 1
+FDS_039_P01_S2_B04_C000,39,1,seccion_sospechosa,Registrada: 2
+FDS_039_P03_S8_B04_C000,39,3,seccion_sospechosa,Registrada: 8
+FDS_039_P03_S8_B05_C000,39,3,seccion_sospechosa,Registrada: 8
+FDS_039_P05_S9_B03_C000,39,5,seccion_sospechosa,Registrada: 9
+FDS_039_P06_S10_B02_C001,39,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_040_P01_S10_B04_C000,40,1,seccion_sospechosa,Registrada: 10
+FDS_040_P03_S8_B03_C000,40,3,seccion_sospechosa,Registrada: 8
+FDS_040_P03_S8_B04_C000,40,3,seccion_sospechosa,Registrada: 8
+FDS_040_P06_S10_B02_C001,40,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_041_P03_S7_B01_C001,41,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_041_P05_S10_B02_C001,41,5,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_041_P06_S11_B01_C002,41,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_041_P06_S11_B01_C003,41,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_042_P02_S10_B03_C000,42,2,seccion_sospechosa,Registrada: 10
+FDS_042_P02_S10_B04_C000,42,2,seccion_sospechosa,Registrada: 10
+FDS_042_P02_S10_B05_C000,42,2,seccion_sospechosa,Registrada: 10
+FDS_042_P03_S7_B03_C001,42,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_042_P07_S11_B01_C003,42,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_043_P03_S7_B03_C001,43,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_043_P04_S8_B02_C000,43,4,seccion_sospechosa,Registrada: 8
+FDS_043_P07_S11_B01_C003,43,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_044_P02_S1_B03_C000,44,2,seccion_sospechosa,Registrada: 1
+FDS_044_P05_S8_B03_C000,44,5,seccion_sospechosa,Registrada: 8
+FDS_044_P07_S11_B01_C003,44,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_045_P04_S8_B03_C000,45,4,seccion_sospechosa,Registrada: 8
+FDS_045_P04_S8_B04_C000,45,4,seccion_sospechosa,Registrada: 8
+FDS_045_P04_S8_B05_C000,45,4,seccion_sospechosa,Registrada: 8
+FDS_045_P06_S10_B02_C001,45,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_045_P07_S11_B01_C001,45,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_045_P07_S11_B01_C002,45,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_046_P03_S7_B01_C001,46,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_046_P03_S8_B03_C000,46,3,seccion_sospechosa,Registrada: 8
+FDS_046_P06_S11_B02_C002,46,6,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_047_P03_S15_B02_C000,47,3,seccion_sospechosa,Registrada: 15
+FDS_047_P03_S10_B03_C000,47,3,seccion_sospechosa,Registrada: 10
+FDS_047_P03_S1_B04_C000,47,3,seccion_sospechosa,Registrada: 1
+FDS_047_P03_S1_B05_C000,47,3,seccion_sospechosa,Registrada: 1
+FDS_048_P03_S15_B02_C000,48,3,seccion_sospechosa,Registrada: 15
+FDS_048_P03_S7_B03_C000,48,3,seccion_sospechosa,Registrada: 7
+FDS_048_P03_S3_B04_C000,48,3,seccion_sospechosa,Registrada: 3
+FDS_048_P03_S1_B05_C000,48,3,seccion_sospechosa,Registrada: 1
+FDS_049_P02_S10_B02_C000,49,2,seccion_sospechosa,Registrada: 10
+FDS_049_P02_S10_B03_C000,49,2,seccion_sospechosa,Registrada: 10
+FDS_049_P03_S7_B03_C001,49,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_049_P04_S8_B03_C000,49,4,seccion_sospechosa,Registrada: 8
+FDS_050_P04_S8_B03_C000,50,4,seccion_sospechosa,Registrada: 8
+FDS_050_P04_S8_B04_C000,50,4,seccion_sospechosa,Registrada: 8
+FDS_050_P04_S2_B05_C000,50,4,seccion_sospechosa,Registrada: 2
+FDS_050_P04_S8_B06_C000,50,4,seccion_sospechosa,Registrada: 8
+FDS_050_P04_S2_B07_C000,50,4,seccion_sospechosa,Registrada: 2
+FDS_050_P04_S8_B08_C000,50,4,seccion_sospechosa,Registrada: 8
+FDS_050_P04_S8_B09_C000,50,4,seccion_sospechosa,Registrada: 8
+FDS_050_P04_S2_B10_C000,50,4,seccion_sospechosa,Registrada: 2
+FDS_050_P04_S2_B11_C000,50,4,seccion_sospechosa,Registrada: 2
+FDS_050_P05_S2_B02_C000,50,5,seccion_sospechosa,Registrada: 2
+FDS_050_P07_S10_B02_C001,50,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_050_P08_S11_B01_C001,50,8,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_050_P08_S11_B01_C003,50,8,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_050_P09_S2_B02_C000,50,9,seccion_sospechosa,Registrada: 2
+FDS_050_P09_S2_B03_C000,50,9,seccion_sospechosa,Registrada: 2
+FDS_050_P09_S2_B05_C000,50,9,seccion_sospechosa,Registrada: 2
+FDS_050_P09_S2_B06_C000,50,9,seccion_sospechosa,Registrada: 2
+FDS_050_P09_S2_B07_C000,50,9,seccion_sospechosa,Registrada: 2
+FDS_050_P10_S2_B02_C000,50,10,seccion_sospechosa,Registrada: 2
+FDS_050_P10_S2_B03_C000,50,10,seccion_sospechosa,Registrada: 2
+FDS_050_P10_S2_B04_C000,50,10,seccion_sospechosa,Registrada: 2
+FDS_050_P10_S2_B05_C000,50,10,seccion_sospechosa,Registrada: 2
+FDS_050_P10_S2_B06_C000,50,10,seccion_sospechosa,Registrada: 2
+FDS_050_P11_S2_B02_C000,50,11,seccion_sospechosa,Registrada: 2
+FDS_050_P11_S2_B03_C000,50,11,seccion_sospechosa,Registrada: 2
+FDS_051_P02_S10_B03_C000,51,2,seccion_sospechosa,Registrada: 10
+FDS_051_P02_S2_B04_C000,51,2,seccion_sospechosa,Registrada: 2
+FDS_051_P04_S8_B03_C000,51,4,seccion_sospechosa,Registrada: 8
+FDS_051_P04_S8_B04_C000,51,4,seccion_sospechosa,Registrada: 8
+FDS_051_P04_S8_B05_C000,51,4,seccion_sospechosa,Registrada: 8
+FDS_051_P04_S8_B06_C000,51,4,seccion_sospechosa,Registrada: 8
+FDS_051_P07_S10_B02_C001,51,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_052_P02_S10_B02_C000,52,2,seccion_sospechosa,Registrada: 10
+FDS_052_P02_S2_B03_C000,52,2,seccion_sospechosa,Registrada: 2
+FDS_052_P04_S8_B03_C000,52,4,seccion_sospechosa,Registrada: 8
+FDS_052_P04_S8_B04_C000,52,4,seccion_sospechosa,Registrada: 8
+FDS_053_P02_S10_B03_C000,53,2,seccion_sospechosa,Registrada: 10
+FDS_053_P02_S10_B04_C000,53,2,seccion_sospechosa,Registrada: 10
+FDS_053_P02_S10_B05_C000,53,2,seccion_sospechosa,Registrada: 10
+FDS_053_P02_S2_B06_C000,53,2,seccion_sospechosa,Registrada: 2
+FDS_053_P04_S8_B03_C000,53,4,seccion_sospechosa,Registrada: 8
+FDS_053_P04_S8_B04_C000,53,4,seccion_sospechosa,Registrada: 8
+FDS_053_P04_S8_B05_C000,53,4,seccion_sospechosa,Registrada: 8
+FDS_053_P04_S2_B06_C000,53,4,seccion_sospechosa,Registrada: 2
+FDS_053_P04_S8_B07_C000,53,4,seccion_sospechosa,Registrada: 8
+FDS_053_P04_S8_B08_C000,53,4,seccion_sospechosa,Registrada: 8
+FDS_053_P04_S2_B09_C000,53,4,seccion_sospechosa,Registrada: 2
+FDS_053_P04_S2_B10_C000,53,4,seccion_sospechosa,Registrada: 2
+FDS_053_P09_S2_B02_C000,53,9,seccion_sospechosa,Registrada: 2
+FDS_053_P09_S2_B04_C000,53,9,seccion_sospechosa,Registrada: 2
+FDS_053_P10_S2_B02_C000,53,10,seccion_sospechosa,Registrada: 2
+FDS_053_P10_S2_B03_C000,53,10,seccion_sospechosa,Registrada: 2
+FDS_053_P10_S2_B04_C000,53,10,seccion_sospechosa,Registrada: 2
+FDS_053_P11_S2_B02_C000,53,11,seccion_sospechosa,Registrada: 2
+FDS_054_P01_S10_B04_C000,54,1,seccion_sospechosa,Registrada: 10
+FDS_054_P01_S2_B05_C000,54,1,seccion_sospechosa,Registrada: 2
+FDS_054_P01_S2_B06_C000,54,1,seccion_sospechosa,Registrada: 2
+FDS_054_P04_S8_B02_C000,54,4,seccion_sospechosa,Registrada: 8
+FDS_054_P04_S2_B03_C000,54,4,seccion_sospechosa,Registrada: 2
+FDS_054_P04_S8_B04_C000,54,4,seccion_sospechosa,Registrada: 8
+FDS_054_P04_S8_B05_C000,54,4,seccion_sospechosa,Registrada: 8
+FDS_054_P04_S2_B06_C000,54,4,seccion_sospechosa,Registrada: 2
+FDS_054_P04_S2_B07_C000,54,4,duplicado_exacto,Excluido
+FDS_054_P06_S8_B02_C000,54,6,seccion_sospechosa,Registrada: 8
+FDS_054_P08_S2_B02_C000,54,8,seccion_sospechosa,Registrada: 2
+FDS_054_P08_S2_B04_C000,54,8,seccion_sospechosa,Registrada: 2
+FDS_054_P09_S2_B02_C000,54,9,seccion_sospechosa,Registrada: 2
+FDS_054_P09_S2_B03_C000,54,9,seccion_sospechosa,Registrada: 2
+FDS_054_P09_S2_B04_C000,54,9,seccion_sospechosa,Registrada: 2
+FDS_054_P09_S2_B05_C000,54,9,seccion_sospechosa,Registrada: 2
+FDS_055_P05_S8_B02_C000,55,5,seccion_sospechosa,Registrada: 8
+FDS_055_P07_S10_B02_C001,55,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_056_P06_S10_B02_C001,56,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_057_P04_S8_B03_C000,57,4,seccion_sospechosa,Registrada: 8
+FDS_057_P07_S11_B02_C001,57,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_057_P07_S11_B02_C002,57,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_058_P05_S8_B03_C000,58,5,seccion_sospechosa,Registrada: 8
+FDS_058_P05_S8_B04_C000,58,5,seccion_sospechosa,Registrada: 8
+FDS_058_P05_S8_B05_C000,58,5,seccion_sospechosa,Registrada: 8
+FDS_060_P02_S10_B03_C000,60,2,seccion_sospechosa,Registrada: 10
+FDS_060_P02_S10_B04_C000,60,2,seccion_sospechosa,Registrada: 10
+FDS_060_P02_S2_B05_C000,60,2,seccion_sospechosa,Registrada: 2
+FDS_060_P05_S8_B02_C000,60,5,seccion_sospechosa,Registrada: 8
+FDS_060_P05_S8_B03_C000,60,5,seccion_sospechosa,Registrada: 8
+FDS_060_P05_S8_B04_C000,60,5,seccion_sospechosa,Registrada: 8
+FDS_060_P05_S8_B05_C000,60,5,seccion_sospechosa,Registrada: 8
+FDS_060_P05_S8_B06_C000,60,5,seccion_sospechosa,Registrada: 8
+FDS_060_P05_S2_B07_C000,60,5,seccion_sospechosa,Registrada: 2
+FDS_060_P05_S8_B08_C000,60,5,seccion_sospechosa,Registrada: 8
+FDS_060_P05_S8_B09_C000,60,5,seccion_sospechosa,Registrada: 8
+FDS_060_P05_S2_B10_C000,60,5,seccion_sospechosa,Registrada: 2
+FDS_060_P05_S2_B11_C000,60,5,seccion_sospechosa,Registrada: 2
+FDS_060_P08_S10_B02_C001,60,8,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_060_P10_S2_B02_C000,60,10,seccion_sospechosa,Registrada: 2
+FDS_060_P12_S2_B02_C000,60,12,seccion_sospechosa,Registrada: 2
+FDS_061_P02_S10_B03_C000,61,2,seccion_sospechosa,Registrada: 10
+FDS_061_P02_S1_B04_C000,61,2,seccion_sospechosa,Registrada: 1
+FDS_061_P04_S8_B03_C000,61,4,seccion_sospechosa,Registrada: 8
+FDS_061_P04_S8_B04_C000,61,4,seccion_sospechosa,Registrada: 8
+FDS_061_P08_S11_B01_C001,61,8,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_062_P01_S10_B04_C000,62,1,seccion_sospechosa,Registrada: 10
+FDS_062_P03_S7_B02_C001,62,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_062_P04_S8_B02_C000,62,4,seccion_sospechosa,Registrada: 8
+FDS_062_P06_S10_B02_C001,62,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_062_P07_S11_B01_C001,62,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_062_P07_S11_B01_C002,62,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_063_P02_S2_B03_C000,63,2,seccion_sospechosa,Registrada: 2
+FDS_064_P02_S2_B03_C000,64,2,seccion_sospechosa,Registrada: 2
+FDS_065_P03_S10_B03_C000,65,3,seccion_sospechosa,Registrada: 10
+FDS_065_P03_S10_B04_C000,65,3,seccion_sospechosa,Registrada: 10
+FDS_065_P03_S7_B05_C000,65,3,seccion_sospechosa,Registrada: 7
+FDS_065_P03_S7_B06_C000,65,3,seccion_sospechosa,Registrada: 7
+FDS_065_P03_S7_B07_C000,65,3,seccion_sospechosa,Registrada: 7
+FDS_065_P03_S1_B08_C000,65,3,seccion_sospechosa,Registrada: 1
+FDS_065_P03_S1_B09_C000,65,3,seccion_sospechosa,Registrada: 1
+FDS_066_P02_S10_B03_C000,66,2,seccion_sospechosa,Registrada: 10
+FDS_066_P02_S10_B05_C000,66,2,seccion_sospechosa,Registrada: 10
+FDS_066_P02_S2_B06_C000,66,2,seccion_sospechosa,Registrada: 2
+FDS_066_P05_S8_B03_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B04_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B05_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B06_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B07_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S2_B08_C000,66,5,seccion_sospechosa,Registrada: 2
+FDS_066_P05_S8_B09_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B10_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B11_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B12_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B13_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B14_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S8_B15_C000,66,5,seccion_sospechosa,Registrada: 8
+FDS_066_P05_S2_B16_C000,66,5,seccion_sospechosa,Registrada: 2
+FDS_066_P10_S2_B02_C000,66,10,seccion_sospechosa,Registrada: 2
+FDS_066_P11_S2_B02_C000,66,11,seccion_sospechosa,Registrada: 2
+FDS_066_P11_S2_B03_C000,66,11,seccion_sospechosa,Registrada: 2
+FDS_066_P12_S2_B02_C000,66,12,seccion_sospechosa,Registrada: 2
+FDS_066_P13_S2_B02_C000,66,13,seccion_sospechosa,Registrada: 2
+FDS_066_P14_S2_B02_C000,66,14,seccion_sospechosa,Registrada: 2
+FDS_067_P02_S5_B03_C000,67,2,seccion_sospechosa,Registrada: 5
+FDS_067_P02_S5_B04_C000,67,2,seccion_sospechosa,Registrada: 5
+FDS_067_P04_S8_B03_C000,67,4,seccion_sospechosa,Registrada: 8
+FDS_067_P04_S8_B04_C000,67,4,seccion_sospechosa,Registrada: 8
+FDS_067_P06_S8_B02_C000,67,6,seccion_sospechosa,Registrada: 8
+FDS_068_P02_S5_B03_C000,68,2,seccion_sospechosa,Registrada: 5
+FDS_068_P04_S8_B03_C000,68,4,seccion_sospechosa,Registrada: 8
+FDS_069_P12_S2_B02_C000,69,12,seccion_sospechosa,Registrada: 2
+FDS_070_P04_SND_B00_C001,70,4,seccion_explicita_distinta,Registrada: None; encabezado: 11
+FDS_071_P03_S2_B02_C000,71,3,seccion_sospechosa,Registrada: 2
+FDS_071_P03_S2_B03_C000,71,3,seccion_sospechosa,Registrada: 2
+FDS_071_P05_SND_B00_C000,71,5,seccion_explicita_distinta,Registrada: None; encabezado: 13
+FDS_071_P05_S2_B03_C000,71,5,seccion_sospechosa,Registrada: 2
+FDS_071_P05_S2_B04_C000,71,5,seccion_sospechosa,Registrada: 2
+FDS_071_P06_S2_B01_C000,71,6,seccion_sospechosa,Registrada: 2
+FDS_071_P09_S2_B02_C000,71,9,seccion_sospechosa,Registrada: 2
+FDS_071_P11_S2_B02_C000,71,11,seccion_sospechosa,Registrada: 2
+FDS_072_P03_S2_B02_C000,72,3,seccion_sospechosa,Registrada: 2
+FDS_072_P05_SND_B00_C000,72,5,seccion_explicita_distinta,Registrada: None; encabezado: 13
+FDS_072_P05_S2_B03_C000,72,5,seccion_sospechosa,Registrada: 2
+FDS_072_P10_S2_B03_C000,72,10,seccion_sospechosa,Registrada: 2
+FDS_074_P03_S3_B02_C000,74,3,seccion_sospechosa,Registrada: 3
+FDS_074_P08_S3_B01_C000,74,8,seccion_sospechosa,Registrada: 3
+FDS_074_P09_S3_B02_C000,74,9,seccion_sospechosa,Registrada: 3
+FDS_074_P09_S10_B03_C000,74,9,seccion_sospechosa,Registrada: 10
+FDS_075_P02_S15_B02_C000,75,2,seccion_sospechosa,Registrada: 15
+FDS_075_P02_S5_B03_C000,75,2,seccion_sospechosa,Registrada: 5
+FDS_075_P02_S5_B04_C000,75,2,seccion_sospechosa,Registrada: 5
+FDS_075_P03_S7_B03_C001,75,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_075_P04_S8_B03_C000,75,4,seccion_sospechosa,Registrada: 8
+FDS_075_P07_S11_B02_C004,75,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_076_P02_S15_B02_C000,76,2,seccion_sospechosa,Registrada: 15
+FDS_076_P02_S5_B03_C000,76,2,seccion_sospechosa,Registrada: 5
+FDS_076_P02_S5_B04_C000,76,2,seccion_sospechosa,Registrada: 5
+FDS_076_P03_S7_B03_C001,76,3,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_076_P04_S8_B03_C000,76,4,seccion_sospechosa,Registrada: 8
+FDS_076_P07_S11_B02_C004,76,7,seccion_explicita_distinta,Registrada: 11; encabezado: 3
+FDS_077_P06_S10_B02_C001,77,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_078_P04_S8_B03_C000,78,4,seccion_sospechosa,Registrada: 8
+FDS_078_P04_S8_B04_C000,78,4,seccion_sospechosa,Registrada: 8
+FDS_078_P04_S8_B05_C000,78,4,seccion_sospechosa,Registrada: 8
+FDS_078_P07_S10_B02_C001,78,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_079_P06_S7_B02_C002,79,6,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_079_P16_S6_B03_C000,79,16,seccion_sospechosa,Registrada: 6
+FDS_079_P16_S2_B04_C000,79,16,seccion_sospechosa,Registrada: 2
+FDS_080_P06_S7_B01_C001,80,6,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_080_P06_S7_B01_C002,80,6,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_081_P06_S7_B02_C002,81,6,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_082_P05_S7_B02_C002,82,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_082_P16_S13_B04_C000,82,16,seccion_sospechosa,Registrada: 13
+FDS_082_P16_S13_B05_C000,82,16,seccion_sospechosa,Registrada: 13
+FDS_083_P03_S6_B03_C002,83,3,seccion_explicita_distinta,Registrada: 6; encabezado: 13
+FDS_083_P04_S7_B01_C001,83,4,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_083_P11_S13_B03_C000,83,11,seccion_sospechosa,Registrada: 13
+FDS_083_P11_S13_B04_C000,83,11,seccion_sospechosa,Registrada: 13
+FDS_084_P05_S7_B02_C001,84,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_084_P05_S7_B02_C002,84,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_084_P05_S1_B04_C000,84,5,seccion_sospechosa,Registrada: 1
+FDS_084_P07_S1_B02_C000,84,7,seccion_sospechosa,Registrada: 1
+FDS_084_P07_S1_B03_C000,84,7,seccion_sospechosa,Registrada: 1
+FDS_084_P08_S1_B03_C000,84,8,seccion_sospechosa,Registrada: 1
+FDS_084_P09_S1_B02_C000,84,9,seccion_sospechosa,Registrada: 1
+FDS_084_P10_S1_B02_C000,84,10,seccion_sospechosa,Registrada: 1
+FDS_084_P12_S1_B02_C000,84,12,seccion_sospechosa,Registrada: 1
+FDS_084_P12_S2_B03_C000,84,12,seccion_sospechosa,Registrada: 2
+FDS_084_P14_S13_B04_C000,84,14,seccion_sospechosa,Registrada: 13
+FDS_084_P14_S6_B05_C000,84,14,seccion_sospechosa,Registrada: 6
+FDS_085_P02_S2_B03_C000,85,2,seccion_sospechosa,Registrada: 2
+FDS_085_P02_S2_B04_C000,85,2,seccion_sospechosa,Registrada: 2
+FDS_085_P04_S6_B02_C002,85,4,seccion_explicita_distinta,Registrada: 6; encabezado: 13
+FDS_085_P05_S7_B01_C001,85,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_085_P05_S2_B03_C000,85,5,seccion_sospechosa,Registrada: 2
+FDS_085_P05_S2_B04_C000,85,5,seccion_sospechosa,Registrada: 2
+FDS_085_P07_S2_B02_C000,85,7,seccion_sospechosa,Registrada: 2
+FDS_085_P07_S2_B03_C000,85,7,seccion_sospechosa,Registrada: 2
+FDS_085_P07_S2_B04_C000,85,7,seccion_sospechosa,Registrada: 2
+FDS_085_P08_S2_B03_C000,85,8,seccion_sospechosa,Registrada: 2
+FDS_085_P08_S2_B04_C000,85,8,seccion_sospechosa,Registrada: 2
+FDS_085_P09_S2_B02_C000,85,9,seccion_sospechosa,Registrada: 2
+FDS_085_P09_S2_B03_C000,85,9,seccion_sospechosa,Registrada: 2
+FDS_085_P09_S2_B04_C000,85,9,seccion_sospechosa,Registrada: 2
+FDS_085_P11_S2_B02_C000,85,11,seccion_sospechosa,Registrada: 2
+FDS_085_P11_S2_B04_C000,85,11,seccion_sospechosa,Registrada: 2
+FDS_085_P11_S2_B05_C000,85,11,seccion_sospechosa,Registrada: 2
+FDS_085_P12_S2_B02_C000,85,12,seccion_sospechosa,Registrada: 2
+FDS_085_P12_S2_B03_C000,85,12,seccion_sospechosa,Registrada: 2
+FDS_085_P14_S6_B02_C000,85,14,seccion_sospechosa,Registrada: 6
+FDS_085_P14_S6_B03_C000,85,14,seccion_sospechosa,Registrada: 6
+FDS_087_P05_SND_B00_C000,87,5,seccion_explicita_distinta,Registrada: None; encabezado: 13
+FDS_088_P02_S10_B03_C000,88,2,seccion_sospechosa,Registrada: 10
+FDS_088_P04_S7_B01_C001,88,4,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_088_P04_S8_B03_C000,88,4,seccion_sospechosa,Registrada: 8
+FDS_089_P02_S5_B03_C000,89,2,seccion_sospechosa,Registrada: 5
+FDS_089_P04_S8_B03_C000,89,4,seccion_sospechosa,Registrada: 8
+FDS_090_P06_S10_B02_C001,90,6,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_091_P02_S10_B02_C000,91,2,seccion_sospechosa,Registrada: 10
+FDS_091_P04_S8_B03_C000,91,4,seccion_sospechosa,Registrada: 8
+FDS_091_P06_S8_B02_C000,91,6,seccion_sospechosa,Registrada: 8
+FDS_091_P07_S10_B01_C001,91,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_092_P04_S8_B03_C000,92,4,seccion_sospechosa,Registrada: 8
+FDS_092_P07_S10_B02_C001,92,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_093_P04_S8_B03_C000,93,4,seccion_sospechosa,Registrada: 8
+FDS_093_P06_S8_B02_C000,93,6,seccion_sospechosa,Registrada: 8
+FDS_093_P07_S10_B01_C001,93,7,seccion_explicita_distinta,Registrada: 10; encabezado: 7
+FDS_094_P02_S10_B03_C000,94,2,seccion_sospechosa,Registrada: 10
+FDS_094_P02_S10_B04_C000,94,2,seccion_sospechosa,Registrada: 10
+FDS_094_P02_S5_B05_C000,94,2,seccion_sospechosa,Registrada: 5
+FDS_094_P05_S8_B02_C000,94,5,seccion_sospechosa,Registrada: 8
+FDS_094_P05_S8_B03_C000,94,5,seccion_sospechosa,Registrada: 8
+FDS_095_P02_S1_B03_C000,95,2,seccion_sospechosa,Registrada: 1
+FDS_095_P05_S7_B02_C002,95,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_095_P08_S1_B04_C000,95,8,seccion_sospechosa,Registrada: 1
+FDS_095_P09_S1_B02_C000,95,9,seccion_sospechosa,Registrada: 1
+FDS_095_P09_S1_B03_C000,95,9,seccion_sospechosa,Registrada: 1
+FDS_095_P11_S1_B02_C000,95,11,seccion_sospechosa,Registrada: 1
+FDS_095_P11_S1_B03_C000,95,11,seccion_sospechosa,Registrada: 1
+FDS_096_P02_S3_B03_C000,96,2,seccion_sospechosa,Registrada: 3
+FDS_096_P06_S7_B01_C001,96,6,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_096_P07_S3_B03_C000,96,7,seccion_sospechosa,Registrada: 3
+FDS_096_P08_S3_B02_C000,96,8,seccion_sospechosa,Registrada: 3
+FDS_096_P09_S3_B02_C000,96,9,seccion_sospechosa,Registrada: 3
+FDS_096_P10_S3_B02_C000,96,10,seccion_sospechosa,Registrada: 3
+FDS_096_P10_S3_B03_C000,96,10,seccion_sospechosa,Registrada: 3
+FDS_096_P11_S3_B02_C000,96,11,seccion_sospechosa,Registrada: 3
+FDS_096_P13_S3_B02_C000,96,13,seccion_sospechosa,Registrada: 3
+FDS_097_P05_S7_B02_C002,97,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_097_P05_S7_B02_C003,97,5,seccion_explicita_distinta,Registrada: 7; encabezado: 10
+FDS_097_P13_S2_B02_C000,97,13,seccion_sospechosa,Registrada: 2
+FDS_098_P02_S1_B03_C000,98,2,seccion_sospechosa,Registrada: 1
+FDS_098_P05_S7_B02_C002,98,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_098_P06_S1_B02_C000,98,6,seccion_sospechosa,Registrada: 1
+FDS_098_P07_S1_B03_C000,98,7,seccion_sospechosa,Registrada: 1
+FDS_098_P08_S1_B02_C000,98,8,seccion_sospechosa,Registrada: 1
+FDS_098_P09_S1_B02_C000,98,9,seccion_sospechosa,Registrada: 1
+FDS_098_P09_S1_B03_C000,98,9,seccion_sospechosa,Registrada: 1
+FDS_098_P10_S1_B02_C000,98,10,seccion_sospechosa,Registrada: 1
+FDS_098_P14_S1_B02_C000,98,14,seccion_sospechosa,Registrada: 1
+FDS_098_P16_S5_B02_C000,98,16,seccion_sospechosa,Registrada: 5
+FDS_098_P16_S5_B03_C000,98,16,seccion_sospechosa,Registrada: 5
+FDS_098_P16_S12_B04_C000,98,16,seccion_sospechosa,Registrada: 12
+FDS_099_P02_S1_B03_C000,99,2,seccion_sospechosa,Registrada: 1
+FDS_099_P05_S7_B02_C002,99,5,seccion_explicita_distinta,Registrada: 7; encabezado: 8
+FDS_099_P08_S1_B04_C000,99,8,seccion_sospechosa,Registrada: 1
+FDS_099_P09_S1_B02_C000,99,9,seccion_sospechosa,Registrada: 1
+FDS_099_P09_S1_B03_C000,99,9,seccion_sospechosa,Registrada: 1
+FDS_099_P11_S1_B03_C000,99,11,seccion_sospechosa,Registrada: 1
+FDS_099_P12_S1_B02_C000,99,12,seccion_sospechosa,Registrada: 1
+FDS_099_P13_S5_B04_C000,99,13,seccion_sospechosa,Registrada: 5
+FDS_099_P13_S5_B05_C000,99,13,seccion_sospechosa,Registrada: 5
+FDS_099_P13_S6_B06_C000,99,13,seccion_sospechosa,Registrada: 6
+FDS_100_P02_S10_B03_C000,100,2,seccion_sospechosa,Registrada: 10
+FDS_100_P05_S8_B02_C000,100,5,seccion_sospechosa,Registrada: 8
+FDS_100_P05_S8_B03_C000,100,5,seccion_sospechosa,Registrada: 8
+FDS_101_P02_S10_B03_C000,101,2,seccion_sospechosa,Registrada: 10
+FDS_101_P05_S8_B03_C000,101,5,seccion_sospechosa,Registrada: 8
+FDS_101_P05_S8_B04_C000,101,5,seccion_sospechosa,Registrada: 8
+FDS_102_P03_S7_B03_C000,102,3,seccion_sospechosa,Registrada: 7
+FDS_102_P03_S7_B04_C000,102,3,seccion_sospechosa,Registrada: 7
+FDS_102_P03_S7_B05_C000,102,3,seccion_sospechosa,Registrada: 7
+FDS_102_P03_S3_B06_C000,102,3,seccion_sospechosa,Registrada: 3
+FDS_102_P03_S3_B07_C000,102,3,seccion_sospechosa,Registrada: 3
+FDS_102_P03_S2_B08_C000,102,3,seccion_sospechosa,Registrada: 2
+FDS_102_P03_S1_B09_C000,102,3,seccion_sospechosa,Registrada: 1
+FDS_102_P03_S1_B10_C000,102,3,seccion_sospechosa,Registrada: 1

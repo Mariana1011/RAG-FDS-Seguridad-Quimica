@@ -1,0 +1,268 @@
+[
+  {
+    "id": "P01",
+    "tipo": "directa",
+    "user_input": "Según la FDS 31, ¿qué empresa figura como proveedor del Recubrimiento Antigraffiti 407141521?",
+    "reference": "El proveedor indicado es CORLANC S.A.S.",
+    "respuesta_esperada": "El proveedor indicado es CORLANC S.A.S.",
+    "productos_consultados": [
+      "Recubrimiento Antigraffiti 407141521"
+    ],
+    "evidencias": [
+      {
+        "fds": 31,
+        "documento": "FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf",
+        "pagina_pdf": 1,
+        "seccion": 1,
+        "fragmento_clave": "Datos sobre el proveedor: CORLANC S.A.S."
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P02",
+    "tipo": "directa",
+    "user_input": "En la FDS 33, ¿cuál es el CAS y el intervalo de concentración de los destilados de petróleo de fracción ligera tratados con hidrógeno?",
+    "reference": "CAS 64742-47-8, concentración entre 50 % y menos de 75 %.",
+    "respuesta_esperada": "CAS 64742-47-8, concentración entre 50 % y menos de 75 %.",
+    "productos_consultados": [
+      "Esmalte Top Quality Azul Medio 1795"
+    ],
+    "evidencias": [
+      {
+        "fds": 33,
+        "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+        "pagina_pdf": 2,
+        "seccion": 3,
+        "fragmento_clave": "CAS 64742-47-8; Destilados (petróleo), fracción ligera tratada con hidrógeno; 50 - <75 %"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P03",
+    "tipo": "directa",
+    "user_input": "En la FDS 51, ¿qué concentración y clasificación de inflamabilidad se indican para el xileno?",
+    "reference": "El xileno (CAS 1330-20-7) aparece entre 25 % y menos de 50 %, clasificado como líquido inflamable, categoría 3 (H226).",
+    "respuesta_esperada": "El xileno (CAS 1330-20-7) aparece entre 25 % y menos de 50 %, clasificado como líquido inflamable, categoría 3 (H226).",
+    "productos_consultados": [
+      "Pintura Acrílica Base Solvente Sapolin"
+    ],
+    "evidencias": [
+      {
+        "fds": 51,
+        "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+        "pagina_pdf": 2,
+        "seccion": 3,
+        "fragmento_clave": "Xileno CAS 1330-20-7; 25 - <50 %; Liq. Infl. 3: H226"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P04",
+    "tipo": "directa",
+    "user_input": "En la FDS 97, ¿qué indica el código de peligro H335 para MADETEC POLIURETANO LACA SEMIMATE INCOLORO P-402?",
+    "reference": "H335: Puede irritar las vías respiratorias.",
+    "respuesta_esperada": "H335: Puede irritar las vías respiratorias.",
+    "productos_consultados": [
+      "MADETEC Poliuretano Laca Semimate Incoloro P-402"
+    ],
+    "evidencias": [
+      {
+        "fds": 97,
+        "documento": "FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL.pdf",
+        "pagina_pdf": 2,
+        "seccion": 2,
+        "fragmento_clave": "H335 - Puede irritar las vías respiratorias."
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P05",
+    "tipo": "directa",
+    "user_input": "Según la sección 1 de la FDS 102, ¿cuál es la versión y la fecha de emisión de AMERCOAT 370 RESIN OXIDE RED?",
+    "reference": "Versión 7, emitida el 14 de agosto de 2025.",
+    "respuesta_esperada": "Versión 7, emitida el 14 de agosto de 2025.",
+    "productos_consultados": [
+      "AMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "evidencias": [
+      {
+        "fds": 102,
+        "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+        "pagina_pdf": 1,
+        "seccion": 1,
+        "fragmento_clave": "Fecha de emisión: 14 Agosto 2025; Versión 7"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P06",
+    "tipo": "directa",
+    "user_input": "En la FDS 32, ¿qué CAS y concentración corresponden al acetato de etilo?",
+    "reference": "CAS 141-78-6; concentración entre 10 % y menos de 25 %.",
+    "respuesta_esperada": "CAS 141-78-6; concentración entre 10 % y menos de 25 %.",
+    "productos_consultados": [
+      "Pintulaca Blanco 7519"
+    ],
+    "evidencias": [
+      {
+        "fds": 32,
+        "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+        "pagina_pdf": 2,
+        "seccion": 3,
+        "fragmento_clave": "Acetato de etilo, CAS 141-78-6, 10 - <25 %"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P07",
+    "tipo": "integracion",
+    "user_input": "Según las secciones 2 y 5 de la FDS 31, ¿qué riesgo de inflamabilidad se identifica y qué agentes extintores se recomiendan o desaconsejan?",
+    "reference": "El producto presenta H226 (líquido y vapores inflamables). Se recomienda preferentemente polvo ABC; alternativamente espuma o CO2. No se recomienda agua a chorro.",
+    "respuesta_esperada": "El producto presenta H226 (líquido y vapores inflamables). Se recomienda preferentemente polvo ABC; alternativamente espuma o CO2. No se recomienda agua a chorro.",
+    "productos_consultados": [
+      "Recubrimiento Antigraffiti 407141521"
+    ],
+    "evidencias": [
+      {
+        "fds": 31,
+        "documento": "FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf",
+        "pagina_pdf": 1,
+        "seccion": 2,
+        "fragmento_clave": "Liq. Infl. 3: H226 - Líquido y vapores inflamables"
+      },
+      {
+        "fds": 31,
+        "documento": "FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf",
+        "pagina_pdf": 3,
+        "seccion": 5,
+        "fragmento_clave": "Extintores de polvo ABC; alternativamente espuma física o CO2; no agua a chorro"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P08",
+    "tipo": "integracion",
+    "user_input": "Según las secciones 1 y 3 de la FDS 32, ¿cuál es el uso recomendado de Pintulaca Blanco 7519 y qué concentración de xileno contiene?",
+    "reference": "Uso recomendado: pintura industrial, exclusiva para usuario profesional. Contiene xileno (CAS 1330-20-7) entre 10 % y menos de 25 %.",
+    "respuesta_esperada": "Uso recomendado: pintura industrial, exclusiva para usuario profesional. Contiene xileno (CAS 1330-20-7) entre 10 % y menos de 25 %.",
+    "productos_consultados": [
+      "Pintulaca Blanco 7519"
+    ],
+    "evidencias": [
+      {
+        "fds": 32,
+        "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+        "pagina_pdf": 1,
+        "seccion": 1,
+        "fragmento_clave": "Pintura industrial. Uso exclusivo usuario profesional"
+      },
+      {
+        "fds": 32,
+        "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+        "pagina_pdf": 2,
+        "seccion": 3,
+        "fragmento_clave": "Xileno CAS 1330-20-7; 10 - <25 %"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P09",
+    "tipo": "comparativa",
+    "user_input": "Compara la concentración declarada de xileno en las FDS 51 y 102. ¿Qué intervalo corresponde a cada producto?",
+    "reference": "La FDS 51 declara xileno CAS 1330-20-7 entre 25 % y menos de 50 %. La FDS 102 declara xilenos, mezcla de isómeros, CAS 1330-20-7, entre 7 % y menos de 10 %.",
+    "respuesta_esperada": "La FDS 51 declara xileno CAS 1330-20-7 entre 25 % y menos de 50 %. La FDS 102 declara xilenos, mezcla de isómeros, CAS 1330-20-7, entre 7 % y menos de 10 %.",
+    "productos_consultados": [
+      "Pintura Acrílica Base Solvente Sapolin",
+      "AMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "evidencias": [
+      {
+        "fds": 51,
+        "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+        "pagina_pdf": 2,
+        "seccion": 3,
+        "fragmento_clave": "Xileno CAS 1330-20-7: 25 - <50 %"
+      },
+      {
+        "fds": 102,
+        "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+        "pagina_pdf": 3,
+        "seccion": 3,
+        "fragmento_clave": "Xilenos, mezcla isómeros: 7 - <10 %, CAS 1330-20-7"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P10",
+    "tipo": "comparativa",
+    "user_input": "Compara la categoría de líquido inflamable indicada para MADETEC P-402 (FDS 97) y AMERCOAT 370 RESIN OXIDE RED (FDS 102).",
+    "reference": "MADETEC P-402 está clasificado como líquido inflamable de categoría 3; AMERCOAT 370 RESIN OXIDE RED, categoría 2.",
+    "respuesta_esperada": "MADETEC P-402 está clasificado como líquido inflamable de categoría 3; AMERCOAT 370 RESIN OXIDE RED, categoría 2.",
+    "productos_consultados": [
+      "MADETEC Poliuretano Laca Semimate Incoloro P-402",
+      "AMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "evidencias": [
+      {
+        "fds": 97,
+        "documento": "FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL.pdf",
+        "pagina_pdf": 1,
+        "seccion": 2,
+        "fragmento_clave": "LÍQUIDOS INFLAMABLES - Categoría 3"
+      },
+      {
+        "fds": 102,
+        "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+        "pagina_pdf": 1,
+        "seccion": 2,
+        "fragmento_clave": "LÍQUIDOS INFLAMABLES - Categoría 2"
+      }
+    ],
+    "respondible": true,
+    "estado_referencia": "verificada contra PDF original"
+  },
+  {
+    "id": "P11",
+    "tipo": "sin_respuesta",
+    "user_input": "¿Cuál será el precio de venta exacto en pesos colombianos de un galón de Pintulaca Blanco 7519 el 1 de enero de 2030?",
+    "reference": null,
+    "respuesta_esperada": "No encuentro información suficiente en las FDS recuperadas.",
+    "productos_consultados": [
+      "Pintulaca Blanco 7519"
+    ],
+    "evidencias": [],
+    "respondible": false,
+    "estado_referencia": "sin referencia documental; prueba de abstención"
+  },
+  {
+    "id": "P12",
+    "tipo": "sin_respuesta",
+    "user_input": "¿Cuántas unidades de AMERCOAT 370 RESIN OXIDE RED se venderán en Colombia durante 2029?",
+    "reference": null,
+    "respuesta_esperada": "No encuentro información suficiente en las FDS recuperadas.",
+    "productos_consultados": [
+      "AMERCOAT 370 RESIN OXIDE RED"
+    ],
+    "evidencias": [],
+    "respondible": false,
+    "estado_referencia": "sin referencia documental; prueba de abstención"
+  }
+]
