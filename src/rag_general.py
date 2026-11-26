@@ -209,7 +209,14 @@ def relevancia_evidencia(pregunta, texto):
 
 class FDSRAG:
     def __init__(self):
-        self.emb = SentenceTransformer(MODEL_ID, device="cpu")
+        try:
+            self.emb = SentenceTransformer(str(BASE / "modelos" / "minilm_multilingual"), device="cpu", local_files_only=True)
+            self.modo_recuperacion = "Híbrido FAISS + TF-IDF"
+        except (OSError, RuntimeError, ValueError) as exc:
+            print(f"Modelo de embeddings no disponible: {exc}")
+            print("Activando recuperación TF-IDF de respaldo.")
+            self.emb = None
+            self.modo_recuperacion = "Solo TF-IDF (respaldo)"
         self.index = faiss.read_index(str(INDICES / "fds_faiss.index"))
         with (INDICES / "metadatos.jsonl").open(encoding="utf-8") as f:
             self.chunks = [json.loads(line) for line in f if line.strip()]
@@ -225,7 +232,7 @@ class FDSRAG:
         m = re.search(r"\bsobre\s+(?:el|la|los|las|un|una)?\s*([^?.,;:]+)", norm(pregunta))
         return [t for t in tokens(m.group(1)) if t not in {"fds", "ficha", "seguridad"}] if m else []
 
-    def buscar(self, pregunta, k=3, pool=150):
+    def buscar(self, pregunta, k=3, pool=150, metodo="hibrido"):
         if not 1 <= k <= 20:
             raise ValueError("k debe estar entre 1 y 20")
         objetivos_fds = extraer_fds(pregunta)
@@ -237,9 +244,15 @@ class FDSRAG:
         cas = [norm(x) for x in CAS_RE.findall(pregunta)]
         hs = [norm(x) for x in H_RE.findall(pregunta)]
 
-        qv = self.emb.encode([pregunta], normalize_embeddings=True, convert_to_numpy=True)
-        _, fi = self.index.search(np.ascontiguousarray(qv, dtype=np.float32), n)
-        sem = [int(x) for x in fi[0] if x >= 0]
+        if metodo not in ("hibrido", "tfidf"):
+            raise ValueError("Método de recuperación inválido")
+        if metodo == "hibrido" and self.emb is None:
+            raise RuntimeError("MiniLM no está disponible para recuperación híbrida")
+        sem = []
+        if metodo == "hibrido":
+            qv = self.emb.encode([pregunta], normalize_embeddings=True, convert_to_numpy=True)
+            _, fi = self.index.search(np.ascontiguousarray(qv, dtype=np.float32), n)
+            sem = [int(x) for x in fi[0] if x >= 0]
         qs = self.vectorizer.transform([pregunta])
         sims = (self.matrix @ qs.T).toarray().ravel()
         nonzero = np.flatnonzero(sims > 0)
@@ -325,8 +338,8 @@ class FDSRAG:
                 best_at, best_score = pos, score
         return texto[best_at:best_at + max_chars].strip()
 
-    def responder(self, pregunta, k=3, modelo=GENERATOR):
-        recuperados = self.buscar(pregunta, k=k)
+    def responder(self, pregunta, k=3, modelo=GENERATOR, metodo="hibrido"):
+        recuperados = self.buscar(pregunta, k=k, metodo=metodo)
         fuentes, contextos = [], []
         for i, resultado in enumerate(recuperados, 1):
             chunk = resultado["chunk"]
